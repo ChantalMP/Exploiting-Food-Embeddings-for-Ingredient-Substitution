@@ -1,0 +1,3914 @@
+{
+  "pumpkin__pie": [
+    0,
+    0
+  ],
+  "sauce__chicken": [
+    0,
+    0
+  ],
+  "chicken__soup": [
+    0,
+    0
+  ],
+  "butter__sugar": [
+    0,
+    0
+  ],
+  "cream__soup": [
+    0,
+    0
+  ],
+  "onion__mushroom": [
+    0,
+    0
+  ],
+  "chicken_broth__water": [
+    1,
+    0
+  ],
+  "pasta__salad": [
+    0,
+    0
+  ],
+  "carrot__celery": [
+    1,
+    1
+  ],
+  "apple__pie": [
+    0,
+    0
+  ],
+  "garlic__pepper": [
+    0,
+    0
+  ],
+  "cream__chicken": [
+    0,
+    0
+  ],
+  "sugar__cookie": [
+    0,
+    0
+  ],
+  "sauce__pasta": [
+    0,
+    0
+  ],
+  "sauce__rice": [
+    0,
+    0
+  ],
+  "butter__olive_oil": [
+    1,
+    0
+  ],
+  "oatmeal__cookie": [
+    0,
+    0
+  ],
+  "butter__margarine": [
+    1,
+    1
+  ],
+  "garlic__sauce": [
+    0,
+    0
+  ],
+  "egg__milk": [
+    0,
+    0
+  ],
+  "garlic__olive_oil": [
+    0,
+    0
+  ],
+  "butter__oil": [
+    1,
+    1
+  ],
+  "butter__milk": [
+    0,
+    0
+  ],
+  "onion__butter": [
+    0,
+    0
+  ],
+  "cake__frosting": [
+    0,
+    0
+  ],
+  "juice__lemon": [
+    0,
+    0
+  ],
+  "jalapeno__pepper": [
+    1,
+    1
+  ],
+  "butter__garlic": [
+    0,
+    0
+  ],
+  "sugar__vanilla": [
+    1,
+    0
+  ],
+  "tomato__onion": [
+    0,
+    0
+  ],
+  "potato__onion": [
+    0,
+    0
+  ],
+  "chicken__onion": [
+    0,
+    0
+  ],
+  "sauce__cheese": [
+    0,
+    0
+  ],
+  "sugar__salt": [
+    0,
+    0
+  ],
+  "olive_oil__salt": [
+    0,
+    0
+  ],
+  "chicken__garlic": [
+    0,
+    0
+  ],
+  "salt__garlic_powder": [
+    0,
+    0
+  ],
+  "cream__milk": [
+    1,
+    0
+  ],
+  "honey__sugar": [
+    1,
+    1
+  ],
+  "butter__cream": [
+    0,
+    0
+  ],
+  "garlic__basil": [
+    0,
+    0
+  ],
+  "garlic__herb": [
+    0,
+    0
+  ],
+  "chicken__pepper": [
+    0,
+    0
+  ],
+  "brown_sugar__white_sugar": [
+    1,
+    1
+  ],
+  "olive_oil__pepper": [
+    0,
+    0
+  ],
+  "oil__applesauce": [
+    0,
+    0
+  ],
+  "sugar__egg": [
+    0,
+    0
+  ],
+  "roast__chicken": [
+    0,
+    0
+  ],
+  "butter__brown_sugar": [
+    0,
+    0
+  ],
+  "water__sugar": [
+    0,
+    0
+  ],
+  "mushroom__sauce": [
+    0,
+    0
+  ],
+  "chicken__veggie": [
+    0,
+    0
+  ],
+  "sugar__milk": [
+    0,
+    0
+  ],
+  "water__salt": [
+    0,
+    0
+  ],
+  "sugar__brown_sugar": [
+    0,
+    1
+  ],
+  "pumpkin__bread": [
+    0,
+    0
+  ],
+  "sauce__noodle": [
+    0,
+    0
+  ],
+  "butter__cheese": [
+    0,
+    0
+  ],
+  "garlic__seasoning": [
+    1,
+    0
+  ],
+  "chicken_stock__water": [
+    1,
+    0
+  ],
+  "egg__cheese": [
+    0,
+    0
+  ],
+  "icing__cake": [
+    0,
+    0
+  ],
+  "cheese__sandwich": [
+    0,
+    0
+  ],
+  "herb__spice": [
+    1,
+    1
+  ],
+  "pumpkin__spice": [
+    0,
+    0
+  ],
+  "chicken__mushroom": [
+    1,
+    1
+  ],
+  "chicken__marinade": [
+    0,
+    0
+  ],
+  "milk__flour": [
+    0,
+    0
+  ],
+  "sauce__cornstarch": [
+    0,
+    0
+  ],
+  "marinade__sauce": [
+    1,
+    1
+  ],
+  "flour__egg": [
+    0,
+    0
+  ],
+  "cinnamon__ginger": [
+    0,
+    0
+  ],
+  "garlic__oil": [
+    0,
+    0
+  ],
+  "pepper__salt": [
+    0,
+    0
+  ],
+  "tomato__garlic": [
+    0,
+    0
+  ],
+  "flour__sauce": [
+    0,
+    0
+  ],
+  "sauce__onion": [
+    0,
+    0
+  ],
+  "spice__salt": [
+    0,
+    0
+  ],
+  "sauce__butter": [
+    0,
+    0
+  ],
+  "bacon__cheese": [
+    0,
+    0
+  ],
+  "meatball__sauce": [
+    0,
+    0
+  ],
+  "cornstarch__water": [
+    0,
+    0
+  ],
+  "cream_cheese__icing": [
+    0,
+    0
+  ],
+  "crust__pie": [
+    0,
+    0
+  ],
+  "cinnamon__batter": [
+    0,
+    0
+  ],
+  "garlic_salt__pepper": [
+    0,
+    0
+  ],
+  "butter__vanilla": [
+    0,
+    0
+  ],
+  "corn__meal": [
+    0,
+    0
+  ],
+  "spice__garlic": [
+    0,
+    1
+  ],
+  "sugar__cake": [
+    0,
+    0
+  ],
+  "fat__cheese": [
+    0,
+    0
+  ],
+  "salt__butter": [
+    0,
+    0
+  ],
+  "onion__spice": [
+    0,
+    0
+  ],
+  "cheese__onion": [
+    0,
+    0
+  ],
+  "oil__salt": [
+    0,
+    0
+  ],
+  "rosemary__thyme": [
+    1,
+    1
+  ],
+  "chicken__shrimp": [
+    1,
+    0
+  ],
+  "yogurt__sour_cream": [
+    1,
+    1
+  ],
+  "spice__chicken": [
+    0,
+    0
+  ],
+  "garlic__rosemary": [
+    0,
+    0
+  ],
+  "tomato__cheese": [
+    0,
+    0
+  ],
+  "sauce__sugar": [
+    0,
+    0
+  ],
+  "chicken__pasta": [
+    0,
+    0
+  ],
+  "garlic__lemon": [
+    0,
+    0
+  ],
+  "beef_broth__water": [
+    1,
+    0
+  ],
+  "cinnamon__allspice": [
+    1,
+    1
+  ],
+  "lemon__cake": [
+    0,
+    0
+  ],
+  "cilantro__parsley": [
+    1,
+    1
+  ],
+  "garlic__red_pepper_flake": [
+    0,
+    0
+  ],
+  "shallot__garlic": [
+    0,
+    0
+  ],
+  "onion__bacon": [
+    0,
+    0
+  ],
+  "round__cake": [
+    0,
+    0
+  ],
+  "onion__red_pepper": [
+    0,
+    0
+  ],
+  "milk__cheese": [
+    0,
+    0
+  ],
+  "macaroni__salad": [
+    0,
+    0
+  ],
+  "salt__chicken": [
+    0,
+    0
+  ],
+  "butter__topping": [
+    0,
+    0
+  ],
+  "salt__flour": [
+    0,
+    0
+  ],
+  "sugar__snap": [
+    0,
+    0
+  ],
+  "butter__water": [
+    0,
+    0
+  ],
+  "spice__pepper": [
+    0,
+    0
+  ],
+  "cheese__bread": [
+    0,
+    0
+  ],
+  "cream__celery": [
+    0,
+    0
+  ],
+  "spice__cake": [
+    0,
+    0
+  ],
+  "broccoli__cauliflower": [
+    1,
+    1
+  ],
+  "butter__crust": [
+    0,
+    0
+  ],
+  "onion__bell_pepper": [
+    0,
+    0
+  ],
+  "sprinkle__sugar": [
+    0,
+    0
+  ],
+  "cheese__cake": [
+    0,
+    0
+  ],
+  "water__chicken": [
+    0,
+    0
+  ],
+  "strawberry__blueberry": [
+    1,
+    1
+  ],
+  "rice__water": [
+    0,
+    0
+  ],
+  "milk__vanilla": [
+    0,
+    0
+  ],
+  "broth__chicken": [
+    0,
+    0
+  ],
+  "banana__muffin": [
+    0,
+    0
+  ],
+  "lime__lemon": [
+    1,
+    1
+  ],
+  "sauce__pepper": [
+    0,
+    0
+  ],
+  "potato__soup": [
+    0,
+    0
+  ],
+  "onion__oil": [
+    0,
+    0
+  ],
+  "pepper__seasoning": [
+    0,
+    0
+  ],
+  "cream__sugar": [
+    0,
+    0
+  ],
+  "salt__onion": [
+    0,
+    0
+  ],
+  "sugar__pea": [
+    0,
+    0
+  ],
+  "olive_oil__onion": [
+    0,
+    0
+  ],
+  "tomato__pepper": [
+    0,
+    0
+  ],
+  "oil__water": [
+    0,
+    0
+  ],
+  "vinegar__sugar": [
+    0,
+    0
+  ],
+  "apple__sugar": [
+    0,
+    0
+  ],
+  "apple__cake": [
+    0,
+    0
+  ],
+  "sauce__pork": [
+    0,
+    0
+  ],
+  "onion__green_onion": [
+    1,
+    1
+  ],
+  "water__flour": [
+    0,
+    0
+  ],
+  "sauce__oil": [
+    0,
+    0
+  ],
+  "chicken__noodle": [
+    0,
+    0
+  ],
+  "crust__topping": [
+    0,
+    0
+  ],
+  "onion__soup": [
+    0,
+    0
+  ],
+  "tortilla__soup": [
+    0,
+    0
+  ],
+  "onion__cilantro": [
+    0,
+    0
+  ],
+  "bread__sandwich": [
+    0,
+    0
+  ],
+  "almond_extract__vanilla": [
+    0,
+    0
+  ],
+  "garlic__parmesan": [
+    0,
+    0
+  ],
+  "cheese__garlic": [
+    0,
+    0
+  ],
+  "honey__brown_sugar": [
+    1,
+    1
+  ],
+  "mushroom__butter": [
+    0,
+    0
+  ],
+  "potato__cheese": [
+    0,
+    0
+  ],
+  "chicken__pot_pie": [
+    0,
+    0
+  ],
+  "cumin__salt": [
+    0,
+    0
+  ],
+  "potato__water": [
+    0,
+    0
+  ],
+  "chicken__vegetable": [
+    0,
+    0
+  ],
+  "potato__garlic": [
+    0,
+    0
+  ],
+  "garlic__lemon_juice": [
+    0,
+    0
+  ],
+  "cake__topping": [
+    0,
+    0
+  ],
+  "meal__salad": [
+    0,
+    0
+  ],
+  "egg__oil": [
+    0,
+    0
+  ],
+  "sugar__spice": [
+    0,
+    0
+  ],
+  "shrimp__scallop": [
+    1,
+    1
+  ],
+  "minced_garlic__onion": [
+    0,
+    0
+  ],
+  "baking_powder__baking_soda": [
+    1,
+    1
+  ],
+  "oregano__garlic": [
+    0,
+    0
+  ],
+  "strawberry__sugar": [
+    0,
+    0
+  ],
+  "cream_cheese__sugar": [
+    0,
+    0
+  ],
+  "sugar__lemon_juice": [
+    0,
+    0
+  ],
+  "butter__bread": [
+    0,
+    0
+  ],
+  "lemon__butter": [
+    0,
+    0
+  ],
+  "oregano__thyme": [
+    1,
+    1
+  ],
+  "mushroom__spinach": [
+    0,
+    0
+  ],
+  "spinach__cheese": [
+    0,
+    0
+  ],
+  "garlic__spinach": [
+    0,
+    0
+  ],
+  "lime__cilantro": [
+    0,
+    0
+  ],
+  "stock__water": [
+    1,
+    0
+  ],
+  "cumin__garlic": [
+    0,
+    0
+  ],
+  "sugar__fat": [
+    0,
+    0
+  ],
+  "garlic_salt__salt": [
+    1,
+    0
+  ],
+  "potato__chicken": [
+    0,
+    0
+  ],
+  "applesauce__butter": [
+    0,
+    0
+  ],
+  "cream__pie": [
+    0,
+    0
+  ],
+  "olive_oil__vegetable_oil": [
+    1,
+    1
+  ],
+  "lemon__glaze": [
+    0,
+    0
+  ],
+  "lemon_juice__salt": [
+    0,
+    0
+  ],
+  "garlic__veggie": [
+    0,
+    0
+  ],
+  "brown_sugar__sauce": [
+    0,
+    0
+  ],
+  "rice__veggie": [
+    0,
+    0
+  ],
+  "baking_powder__salt": [
+    0,
+    0
+  ],
+  "water__garlic": [
+    0,
+    0
+  ],
+  "butter__cake": [
+    0,
+    0
+  ],
+  "carrot__soup": [
+    0,
+    0
+  ],
+  "spinach__onion": [
+    0,
+    0
+  ],
+  "butter__cookie": [
+    0,
+    0
+  ],
+  "cake__cookie": [
+    0,
+    0
+  ],
+  "sugar__crust": [
+    0,
+    0
+  ],
+  "yeast__bread": [
+    0,
+    0
+  ],
+  "oregano__salt": [
+    0,
+    0
+  ],
+  "milk__salt": [
+    0,
+    0
+  ],
+  "beef__pork": [
+    1,
+    1
+  ],
+  "soup__meal": [
+    0,
+    0
+  ],
+  "cake__cupcake": [
+    0,
+    1
+  ],
+  "garlic__red_pepper": [
+    0,
+    0
+  ],
+  "salt__paprika": [
+    0,
+    0
+  ],
+  "cheese__soup": [
+    0,
+    0
+  ],
+  "cream_cheese__butter": [
+    0,
+    0
+  ],
+  "onion__parsley": [
+    0,
+    0
+  ],
+  "bread__salad": [
+    0,
+    0
+  ],
+  "veggie__meal": [
+    0,
+    0
+  ],
+  "strawberry__raspberry": [
+    1,
+    1
+  ],
+  "cheese__salt": [
+    0,
+    0
+  ],
+  "chicken__fat": [
+    0,
+    0
+  ],
+  "chicken__broccoli": [
+    0,
+    0
+  ],
+  "strawberry__banana": [
+    0,
+    0
+  ],
+  "chicken__carrot": [
+    0,
+    0
+  ],
+  "onion__zucchini": [
+    0,
+    0
+  ],
+  "water__egg": [
+    0,
+    0
+  ],
+  "basil__pepper": [
+    0,
+    0
+  ],
+  "olive_oil__lemon_juice": [
+    0,
+    0
+  ],
+  "banana__bread": [
+    0,
+    0
+  ],
+  "flour__oil": [
+    0,
+    0
+  ],
+  "fat__sauce": [
+    0,
+    0
+  ],
+  "onion__salad": [
+    0,
+    0
+  ],
+  "key_lime__pie": [
+    0,
+    0
+  ],
+  "celery__mushroom": [
+    0,
+    0
+  ],
+  "juice__sauce": [
+    0,
+    0
+  ],
+  "cheese__mozzarella": [
+    0,
+    1
+  ],
+  "cornstarch__flour": [
+    0,
+    0
+  ],
+  "onion__egg": [
+    0,
+    0
+  ],
+  "leek__onion": [
+    0,
+    0
+  ],
+  "seasoning__sauce": [
+    0,
+    0
+  ],
+  "fruit__cake": [
+    0,
+    0
+  ],
+  "carrot__zucchini": [
+    1,
+    1
+  ],
+  "milk__fat": [
+    0,
+    0
+  ],
+  "apple__pear": [
+    1,
+    1
+  ],
+  "strawberry__whipped_cream": [
+    0,
+    0
+  ],
+  "butter__potato": [
+    0,
+    0
+  ],
+  "soup__sour_cream": [
+    0,
+    0
+  ],
+  "garlic_powder__garlic_salt": [
+    1,
+    1
+  ],
+  "sauce__topping": [
+    0,
+    0
+  ],
+  "sugar__applesauce": [
+    0,
+    0
+  ],
+  "onion__jalapeno": [
+    0,
+    0
+  ],
+  "potato__meal": [
+    0,
+    0
+  ],
+  "coconut__rice": [
+    0,
+    0
+  ],
+  "chicken__turkey": [
+    1,
+    1
+  ],
+  "milk__soup": [
+    0,
+    0
+  ],
+  "strawberry__cake": [
+    0,
+    0
+  ],
+  "garlic__wine": [
+    0,
+    0
+  ],
+  "broccoli__mushroom": [
+    0,
+    0
+  ],
+  "chicken__egg": [
+    0,
+    0
+  ],
+  "beef__sauce": [
+    0,
+    0
+  ],
+  "mushroom__tomato": [
+    0,
+    0
+  ],
+  "chicken__sandwich": [
+    0,
+    0
+  ],
+  "strawberry__shortcake": [
+    0,
+    0
+  ],
+  "veggie__cheese": [
+    0,
+    0
+  ],
+  "sauce__bread": [
+    0,
+    0
+  ],
+  "sugar__dough": [
+    0,
+    0
+  ],
+  "bacon__ham": [
+    1,
+    1
+  ],
+  "onion__basil": [
+    0,
+    0
+  ],
+  "oregano__parsley": [
+    1,
+    1
+  ],
+  "lemon__lemon_juice": [
+    0,
+    1
+  ],
+  "oil__olive_oil": [
+    0,
+    1
+  ],
+  "basil__tomato": [
+    0,
+    0
+  ],
+  "bread__egg": [
+    0,
+    0
+  ],
+  "garlic__cayenne": [
+    0,
+    0
+  ],
+  "dried_cranberry__raisin": [
+    1,
+    1
+  ],
+  "sugar__lemon": [
+    0,
+    0
+  ],
+  "roast__garlic": [
+    0,
+    0
+  ],
+  "salad__garlic_bread": [
+    0,
+    0
+  ],
+  "butter__batter": [
+    0,
+    0
+  ],
+  "vanilla__cake": [
+    0,
+    0
+  ],
+  "onion__flour": [
+    0,
+    0
+  ],
+  "soy_sauce__salt": [
+    1,
+    1
+  ],
+  "oil__pepper": [
+    0,
+    0
+  ],
+  "brown_sugar__vanilla": [
+    0,
+    0
+  ],
+  "sauce__tomato_sauce": [
+    0,
+    1
+  ],
+  "salt__broth": [
+    1,
+    1
+  ],
+  "flour__cookie": [
+    0,
+    0
+  ],
+  "garlic__paprika": [
+    0,
+    0
+  ],
+  "sauce__steak": [
+    0,
+    0
+  ],
+  "thyme__basil": [
+    0,
+    0
+  ],
+  "loaf__muffin": [
+    0,
+    0
+  ],
+  "garlic__chicken_broth": [
+    0,
+    0
+  ],
+  "almond__flavoring": [
+    0,
+    0
+  ],
+  "chicken__chicken_breast": [
+    0,
+    1
+  ],
+  "shrimp__garlic": [
+    0,
+    0
+  ],
+  "cottage_cheese__ricotta": [
+    1,
+    1
+  ],
+  "flour__gravy": [
+    0,
+    0
+  ],
+  "lemon__salt": [
+    0,
+    0
+  ],
+  "sugar__dressing": [
+    0,
+    0
+  ],
+  "cocoa__chocolate": [
+    1,
+    1
+  ],
+  "salt__vanilla": [
+    0,
+    0
+  ],
+  "pea__soup": [
+    0,
+    0
+  ],
+  "sauce__rib": [
+    0,
+    0
+  ],
+  "sauce__broccoli": [
+    0,
+    0
+  ],
+  "apple__raisin": [
+    0,
+    0
+  ],
+  "tortilla__cheese": [
+    0,
+    0
+  ],
+  "zest__juice": [
+    0,
+    0
+  ],
+  "roast__potato": [
+    0,
+    0
+  ],
+  "chicken_broth__wine": [
+    0,
+    1
+  ],
+  "flour__chicken": [
+    0,
+    0
+  ],
+  "chocolate__chocolate_chip": [
+    0,
+    1
+  ],
+  "onion__ginger": [
+    0,
+    0
+  ],
+  "chicken__garlic_powder": [
+    0,
+    0
+  ],
+  "salt__cinnamon": [
+    0,
+    0
+  ],
+  "tomato__olive_oil": [
+    0,
+    0
+  ],
+  "yeast__sugar": [
+    0,
+    0
+  ],
+  "carrot__sauce": [
+    0,
+    0
+  ],
+  "salmon__sauce": [
+    0,
+    0
+  ],
+  "tomato_paste__sauce": [
+    0,
+    0
+  ],
+  "potato__pancake": [
+    0,
+    0
+  ],
+  "chocolate__sugar": [
+    0,
+    0
+  ],
+  "chicken_broth__salt": [
+    1,
+    1
+  ],
+  "chicken__dressing": [
+    0,
+    0
+  ],
+  "tomato__soup": [
+    0,
+    0
+  ],
+  "wine__water": [
+    1,
+    0
+  ],
+  "seasoning__spice": [
+    1,
+    1
+  ],
+  "pineapple__cake": [
+    0,
+    0
+  ],
+  "mashed_potato__gravy": [
+    0,
+    0
+  ],
+  "jalapeno__seed": [
+    0,
+    0
+  ],
+  "batter__cookie": [
+    0,
+    0
+  ],
+  "chicken__lemon": [
+    0,
+    0
+  ],
+  "chicken_broth__broth": [
+    1,
+    0
+  ],
+  "onion_powder__onion": [
+    1,
+    0
+  ],
+  "sugar__chocolate_chip": [
+    0,
+    0
+  ],
+  "wine__broth": [
+    1,
+    0
+  ],
+  "potato__veggie": [
+    0,
+    0
+  ],
+  "cream__fat": [
+    0,
+    0
+  ],
+  "pancake__syrup": [
+    0,
+    0
+  ],
+  "bread__flour": [
+    0,
+    0
+  ],
+  "sausage__sauce": [
+    0,
+    0
+  ],
+  "rice__onion": [
+    0,
+    0
+  ],
+  "cream__sour_cream": [
+    1,
+    1
+  ],
+  "almond__walnut": [
+    1,
+    1
+  ],
+  "apple__butter": [
+    0,
+    0
+  ],
+  "sugar__tart": [
+    0,
+    0
+  ],
+  "cake__sauce": [
+    0,
+    0
+  ],
+  "cookie__crust": [
+    0,
+    0
+  ],
+  "lime_juice__lemon": [
+    1,
+    0
+  ],
+  "chocolate__brownie": [
+    0,
+    0
+  ],
+  "onion__sugar": [
+    0,
+    0
+  ],
+  "sauce__lemon": [
+    0,
+    0
+  ],
+  "orange__sauce": [
+    0,
+    0
+  ],
+  "cheese__pasta": [
+    0,
+    0
+  ],
+  "sauce__soup": [
+    0,
+    0
+  ],
+  "olive_oil__seasoning": [
+    0,
+    0
+  ],
+  "chocolate__topping": [
+    0,
+    0
+  ],
+  "steak__marinade": [
+    0,
+    0
+  ],
+  "chicken__gravy": [
+    0,
+    0
+  ],
+  "milk__cinnamon": [
+    0,
+    0
+  ],
+  "plain_yogurt__sour_cream": [
+    1,
+    1
+  ],
+  "green_pepper__mushroom": [
+    0,
+    0
+  ],
+  "garlic__sugar": [
+    0,
+    0
+  ],
+  "fruit__sugar": [
+    0,
+    0
+  ],
+  "crisp__crust": [
+    0,
+    0
+  ],
+  "cheddar__mozzarella": [
+    0,
+    0
+  ],
+  "egg__cake": [
+    0,
+    0
+  ],
+  "saffron__rice": [
+    0,
+    0
+  ],
+  "pudding__cake": [
+    0,
+    0
+  ],
+  "milk__lemon_juice": [
+    0,
+    0
+  ],
+  "spinach__tomato": [
+    0,
+    0
+  ],
+  "bread__soup": [
+    0,
+    0
+  ],
+  "egg__bacon": [
+    0,
+    0
+  ],
+  "veggie__zucchini": [
+    0,
+    0
+  ],
+  "vinegar__oil": [
+    0,
+    0
+  ],
+  "onion__milk": [
+    0,
+    0
+  ],
+  "vegetable__onion": [
+    0,
+    0
+  ],
+  "sausage__pepper": [
+    0,
+    0
+  ],
+  "flour__brown_sugar": [
+    0,
+    0
+  ],
+  "sugar__berry": [
+    0,
+    0
+  ],
+  "pasta__meal": [
+    0,
+    0
+  ],
+  "chicken__sour_cream": [
+    0,
+    0
+  ],
+  "butter__powdered_sugar": [
+    0,
+    0
+  ],
+  "frosting__sugar": [
+    0,
+    0
+  ],
+  "cookie__icing": [
+    0,
+    0
+  ],
+  "cucumber__sauce": [
+    0,
+    0
+  ],
+  "banana__cream": [
+    0,
+    0
+  ],
+  "mushroom__veggie": [
+    0,
+    0
+  ],
+  "garlic__broccoli": [
+    0,
+    0
+  ],
+  "chocolate__pie": [
+    0,
+    0
+  ],
+  "dough__crust": [
+    0,
+    0
+  ],
+  "cake__whipped_cream": [
+    0,
+    0
+  ],
+  "veggie__celery": [
+    0,
+    0
+  ],
+  "thyme__sage": [
+    0,
+    0
+  ],
+  "cupcake__frosting": [
+    0,
+    0
+  ],
+  "salt__soup": [
+    0,
+    0
+  ],
+  "butter__seasoning": [
+    0,
+    0
+  ],
+  "zucchini__tomato": [
+    0,
+    0
+  ],
+  "yeast__water": [
+    0,
+    0
+  ],
+  "cream_cheese__egg": [
+    0,
+    0
+  ],
+  "butter__icing": [
+    0,
+    0
+  ],
+  "chicken__spinach": [
+    0,
+    0
+  ],
+  "marinade__fish": [
+    0,
+    0
+  ],
+  "thyme__pepper": [
+    0,
+    0
+  ],
+  "butter__parmesan": [
+    0,
+    0
+  ],
+  "milk__vinegar": [
+    0,
+    0
+  ],
+  "onion__herb": [
+    0,
+    0
+  ],
+  "zucchini__yellow_squash": [
+    1,
+    1
+  ],
+  "cucumber__salad": [
+    0,
+    0
+  ],
+  "garlic__jalapeno": [
+    0,
+    0
+  ],
+  "sugar__tomato": [
+    0,
+    0
+  ],
+  "sugar__juice": [
+    0,
+    0
+  ],
+  "mashed_potato__green_bean": [
+    0,
+    0
+  ],
+  "bean__corn": [
+    0,
+    0
+  ],
+  "egg__pepper": [
+    0,
+    0
+  ],
+  "pasta__garlic": [
+    0,
+    0
+  ],
+  "veggie__salad": [
+    0,
+    0
+  ],
+  "chili__garlic_sauce": [
+    0,
+    0
+  ],
+  "garlic__cream": [
+    0,
+    0
+  ],
+  "sea_salt__pepper": [
+    0,
+    0
+  ],
+  "cream__egg": [
+    0,
+    0
+  ],
+  "chicken__chili": [
+    0,
+    0
+  ],
+  "tomato__pasta": [
+    0,
+    0
+  ],
+  "cocoa__sugar": [
+    0,
+    0
+  ],
+  "pasta__soup": [
+    0,
+    0
+  ],
+  "cream_cheese__milk": [
+    0,
+    0
+  ],
+  "caramel__apple": [
+    0,
+    0
+  ],
+  "garlic__salad": [
+    0,
+    0
+  ],
+  "parsley__salt": [
+    0,
+    0
+  ],
+  "vinegar__dressing": [
+    0,
+    0
+  ],
+  "seasoning__basil": [
+    0,
+    0
+  ],
+  "dough__water": [
+    0,
+    0
+  ],
+  "black_pepper__salt": [
+    0,
+    0
+  ],
+  "bread__olive_oil": [
+    0,
+    0
+  ],
+  "potato__green_bean": [
+    0,
+    0
+  ],
+  "bean__water": [
+    0,
+    0
+  ],
+  "salt__tomato": [
+    0,
+    0
+  ],
+  "sauce__vinegar": [
+    0,
+    0
+  ],
+  "onion__cream": [
+    0,
+    0
+  ],
+  "potato__olive_oil": [
+    0,
+    0
+  ],
+  "sugar__cornstarch": [
+    0,
+    0
+  ],
+  "chili_powder__salt": [
+    0,
+    0
+  ],
+  "powdered_sugar__milk": [
+    0,
+    0
+  ],
+  "carrot__broth": [
+    0,
+    0
+  ],
+  "seasoning__onion": [
+    0,
+    0
+  ],
+  "soy_sauce__sauce": [
+    0,
+    0
+  ],
+  "butter__garlic_powder": [
+    0,
+    0
+  ],
+  "cheese__salad": [
+    0,
+    0
+  ],
+  "salt__potato": [
+    0,
+    0
+  ],
+  "green_pepper__garlic": [
+    0,
+    0
+  ],
+  "sugar__bread": [
+    0,
+    0
+  ],
+  "garlic__bacon": [
+    0,
+    0
+  ],
+  "yogurt__milk": [
+    0,
+    0
+  ],
+  "diced_tomato__tomato_sauce": [
+    1,
+    1
+  ],
+  "corn__salad": [
+    0,
+    0
+  ],
+  "sour_cream__butter": [
+    0,
+    0
+  ],
+  "muffin__sugar": [
+    0,
+    0
+  ],
+  "spice__cheese": [
+    0,
+    0
+  ],
+  "garlic__chili_powder": [
+    0,
+    0
+  ],
+  "olive_oil__lemon": [
+    0,
+    0
+  ],
+  "shrimp__salad": [
+    0,
+    0
+  ],
+  "topping__brown_sugar": [
+    0,
+    0
+  ],
+  "spinach__sauce": [
+    0,
+    0
+  ],
+  "olive_oil__spice": [
+    0,
+    0
+  ],
+  "lime_juice__cilantro": [
+    0,
+    0
+  ],
+  "sugar__white_sugar": [
+    0,
+    1
+  ],
+  "cheese__salsa": [
+    0,
+    0
+  ],
+  "sausage__gravy": [
+    0,
+    0
+  ],
+  "seasoning_salt__pepper": [
+    0,
+    0
+  ],
+  "mushroom__red_pepper": [
+    0,
+    0
+  ],
+  "maple_syrup__honey": [
+    1,
+    1
+  ],
+  "lemon__pepper": [
+    0,
+    0
+  ],
+  "zucchini__garlic": [
+    0,
+    0
+  ],
+  "squash__onion": [
+    0,
+    0
+  ],
+  "pepper__flour": [
+    0,
+    0
+  ],
+  "chicken__milk": [
+    0,
+    0
+  ],
+  "bread__garlic": [
+    0,
+    0
+  ],
+  "whole_wheat_flour__oil": [
+    0,
+    0
+  ],
+  "onion__wine": [
+    0,
+    0
+  ],
+  "milk__cake": [
+    0,
+    0
+  ],
+  "sauce__basil": [
+    0,
+    0
+  ],
+  "frosting__powdered_sugar": [
+    0,
+    0
+  ],
+  "mushroom__pea": [
+    0,
+    0
+  ],
+  "garlic__sausage": [
+    0,
+    0
+  ],
+  "flour__broth": [
+    0,
+    0
+  ],
+  "salmon__cake": [
+    0,
+    0
+  ],
+  "onion__corn": [
+    0,
+    0
+  ],
+  "fruit__topping": [
+    0,
+    0
+  ],
+  "tomato__juice": [
+    0,
+    0
+  ],
+  "beef__water": [
+    0,
+    0
+  ],
+  "seasoning__cheese": [
+    0,
+    0
+  ],
+  "cream__corn": [
+    0,
+    0
+  ],
+  "diced_tomato__tomato": [
+    1,
+    0
+  ],
+  "topping__cinnamon": [
+    0,
+    0
+  ],
+  "cream_cheese__powdered_sugar": [
+    0,
+    0
+  ],
+  "rosemary__salt": [
+    0,
+    0
+  ],
+  "garlic_powder__sauce": [
+    0,
+    0
+  ],
+  "ketchup__sauce": [
+    0,
+    0
+  ],
+  "olive_oil__sea_salt": [
+    0,
+    0
+  ],
+  "onion__red_bell_pepper": [
+    0,
+    0
+  ],
+  "sauce__corn_starch": [
+    0,
+    0
+  ],
+  "canola_oil__butter": [
+    0,
+    1
+  ],
+  "ciabatta__bread": [
+    1,
+    0
+  ],
+  "chicken__celery": [
+    0,
+    0
+  ],
+  "potato__corn": [
+    0,
+    0
+  ],
+  "noodle__rice": [
+    0,
+    0
+  ],
+  "water__batter": [
+    0,
+    0
+  ],
+  "rhubarb__pie": [
+    0,
+    0
+  ],
+  "herb__salt": [
+    0,
+    0
+  ],
+  "tomato__oil": [
+    0,
+    0
+  ],
+  "sugar__pepper": [
+    0,
+    0
+  ],
+  "dripping__gravy": [
+    0,
+    0
+  ],
+  "stew__soup": [
+    0,
+    0
+  ],
+  "spice__chili_powder": [
+    0,
+    1
+  ],
+  "broth__garlic": [
+    0,
+    0
+  ],
+  "potato__oil": [
+    0,
+    0
+  ],
+  "potato__mushroom": [
+    0,
+    0
+  ],
+  "minced_garlic__salt": [
+    0,
+    0
+  ],
+  "orange__water": [
+    0,
+    0
+  ],
+  "water__carrot": [
+    0,
+    0
+  ],
+  "noodle__cheese": [
+    0,
+    0
+  ],
+  "onion__cabbage": [
+    0,
+    0
+  ],
+  "egg__cinnamon": [
+    0,
+    0
+  ],
+  "sodium__soup": [
+    0,
+    0
+  ],
+  "garlic__green_bean": [
+    0,
+    0
+  ],
+  "walnut__chocolate_chip": [
+    0,
+    0
+  ],
+  "cheese__dressing": [
+    0,
+    0
+  ],
+  "carrot__red_pepper": [
+    1,
+    1
+  ],
+  "mushroom__salt": [
+    0,
+    0
+  ],
+  "mushroom__bacon": [
+    0,
+    0
+  ],
+  "spinach__leave": [
+    0,
+    0
+  ],
+  "tomato__avocado": [
+    0,
+    0
+  ],
+  "chicken_breast__garlic": [
+    0,
+    0
+  ],
+  "sauce__chicken_broth": [
+    0,
+    0
+  ],
+  "onion__scallion": [
+    0,
+    0
+  ],
+  "water__tomato": [
+    0,
+    0
+  ],
+  "butter__wine": [
+    0,
+    0
+  ],
+  "brown_sugar__apple": [
+    0,
+    0
+  ],
+  "corned_beef__cabbage": [
+    0,
+    0
+  ],
+  "cake__coffee": [
+    0,
+    0
+  ],
+  "ham__onion": [
+    0,
+    0
+  ],
+  "diced_tomato__sauce": [
+    0,
+    0
+  ],
+  "minced_garlic__pepper": [
+    0,
+    0
+  ],
+  "muffin__cupcake": [
+    0,
+    0
+  ],
+  "sprinkle__parmesan": [
+    0,
+    0
+  ],
+  "butter__soup": [
+    0,
+    0
+  ],
+  "sausage__mushroom": [
+    0,
+    0
+  ],
+  "sour_cream__onion": [
+    0,
+    0
+  ],
+  "raspberry__blackberry": [
+    1,
+    1
+  ],
+  "strawberry__cream": [
+    0,
+    0
+  ],
+  "pea__onion": [
+    0,
+    0
+  ],
+  "cayenne_pepper__spice": [
+    1,
+    0
+  ],
+  "black_bean__rice": [
+    0,
+    0
+  ],
+  "cake__flour": [
+    0,
+    0
+  ],
+  "chicken_breast__onion": [
+    0,
+    0
+  ],
+  "corn__soup": [
+    0,
+    0
+  ],
+  "chocolate__orange": [
+    0,
+    0
+  ],
+  "turkey__soup": [
+    0,
+    0
+  ],
+  "olive_oil__vinegar": [
+    0,
+    0
+  ],
+  "rice__potato": [
+    0,
+    0
+  ],
+  "powdered_sugar__vanilla": [
+    1,
+    0
+  ],
+  "almond__vanilla": [
+    0,
+    0
+  ],
+  "butter__rice": [
+    0,
+    0
+  ],
+  "vanilla__egg": [
+    0,
+    0
+  ],
+  "sour_cream__green_onion": [
+    0,
+    0
+  ],
+  "olive_oil__veggie": [
+    0,
+    0
+  ],
+  "butter__chocolate_chip": [
+    0,
+    0
+  ],
+  "milk__pepper": [
+    0,
+    0
+  ],
+  "chicken__browning": [
+    0,
+    0
+  ],
+  "onion__lemon": [
+    0,
+    0
+  ],
+  "herb__oregano": [
+    0,
+    1
+  ],
+  "chicken_broth__vegetable_broth": [
+    1,
+    1
+  ],
+  "bread__muffin": [
+    0,
+    0
+  ],
+  "mushroom__cream": [
+    0,
+    0
+  ],
+  "green_onion__cilantro": [
+    0,
+    0
+  ],
+  "diced_tomato__basil": [
+    0,
+    0
+  ],
+  "salt__bacon": [
+    0,
+    0
+  ],
+  "sprinkle__pepper": [
+    0,
+    0
+  ],
+  "potato__pea": [
+    0,
+    0
+  ],
+  "pepper__water": [
+    0,
+    0
+  ],
+  "herb__chicken": [
+    0,
+    0
+  ],
+  "garlic__olive": [
+    0,
+    0
+  ],
+  "stock__chicken": [
+    0,
+    0
+  ],
+  "whole_wheat_flour__applesauce": [
+    0,
+    0
+  ],
+  "shrimp__crab": [
+    1,
+    1
+  ],
+  "minced_garlic__garlic": [
+    1,
+    0
+  ],
+  "chili__spice": [
+    1,
+    0
+  ],
+  "lemon__icing": [
+    0,
+    0
+  ],
+  "onion__red_pepper_flake": [
+    0,
+    0
+  ],
+  "onion__fat": [
+    0,
+    0
+  ],
+  "rub__chicken": [
+    0,
+    0
+  ],
+  "potato__sweet_potato": [
+    0,
+    1
+  ],
+  "dressing__veggie": [
+    0,
+    0
+  ],
+  "soy_milk__milk": [
+    1,
+    0
+  ],
+  "topping__muffin": [
+    0,
+    0
+  ],
+  "coffee__milk": [
+    0,
+    0
+  ],
+  "chicken__bean": [
+    0,
+    0
+  ],
+  "marinade__pork": [
+    0,
+    0
+  ],
+  "asparagu__mushroom": [
+    0,
+    0
+  ],
+  "dough__cinnamon": [
+    0,
+    0
+  ],
+  "chocolate__milk": [
+    0,
+    0
+  ],
+  "cheese__meal": [
+    0,
+    0
+  ],
+  "barley__soup": [
+    0,
+    0
+  ],
+  "broth__veggie": [
+    0,
+    0
+  ],
+  "avocado__salsa": [
+    0,
+    0
+  ],
+  "sauce__parmesan": [
+    0,
+    0
+  ],
+  "onion__paprika": [
+    0,
+    0
+  ],
+  "pepper__soup": [
+    0,
+    0
+  ],
+  "cream__chocolate": [
+    0,
+    0
+  ],
+  "pasta__water": [
+    0,
+    0
+  ],
+  "cilantro__sauce": [
+    0,
+    0
+  ],
+  "lime__sauce": [
+    0,
+    0
+  ],
+  "minced_garlic__butter": [
+    0,
+    0
+  ],
+  "minced_garlic__sauce": [
+    0,
+    0
+  ],
+  "browning__sauce": [
+    0,
+    0
+  ],
+  "leave__cheese": [
+    0,
+    0
+  ],
+  "broccoli__cheese_soup": [
+    0,
+    0
+  ],
+  "garlic__crushed_red_pepper": [
+    0,
+    0
+  ],
+  "milk__oil": [
+    0,
+    0
+  ],
+  "oil__honey": [
+    0,
+    0
+  ],
+  "veggie__butter": [
+    0,
+    0
+  ],
+  "shallot__butter": [
+    0,
+    0
+  ],
+  "cheese__cracker": [
+    0,
+    0
+  ],
+  "chicken_broth__bouillon": [
+    0,
+    0
+  ],
+  "spice__tomato": [
+    0,
+    0
+  ],
+  "butternut_squash__soup": [
+    0,
+    0
+  ],
+  "bacon__pancetta": [
+    1,
+    1
+  ],
+  "fat__skim_milk": [
+    0,
+    0
+  ],
+  "cabbage__soup": [
+    0,
+    0
+  ],
+  "sour_cream__cilantro": [
+    0,
+    0
+  ],
+  "peach__sugar": [
+    0,
+    0
+  ],
+  "lemon__yogurt": [
+    0,
+    0
+  ],
+  "garlic__sour_cream": [
+    0,
+    0
+  ],
+  "fat__meal": [
+    0,
+    0
+  ],
+  "fruit__pie": [
+    0,
+    0
+  ],
+  "avocado__sour_cream": [
+    0,
+    0
+  ],
+  "roast__pepper": [
+    0,
+    0
+  ],
+  "water__brown_sugar": [
+    0,
+    0
+  ],
+  "veggie__chicken_broth": [
+    0,
+    0
+  ],
+  "garlic__meal": [
+    0,
+    0
+  ],
+  "salt__parmesan": [
+    0,
+    0
+  ],
+  "loaf__cake": [
+    0,
+    0
+  ],
+  "ground_turkey__ground_beef": [
+    1,
+    1
+  ],
+  "soy_sauce__sugar": [
+    0,
+    0
+  ],
+  "turkey__pepperoni": [
+    0,
+    0
+  ],
+  "veggie__tomato": [
+    0,
+    0
+  ],
+  "flour__yeast": [
+    0,
+    0
+  ],
+  "lemon_juice__lemon_zest": [
+    1,
+    1
+  ],
+  "soup__chicken_broth": [
+    0,
+    0
+  ],
+  "oil__lemon_juice": [
+    0,
+    0
+  ],
+  "frosting__cream_cheese": [
+    0,
+    0
+  ],
+  "sugar__egg_white": [
+    0,
+    0
+  ],
+  "chocolate__banana": [
+    0,
+    0
+  ],
+  "mushroom__rice": [
+    0,
+    0
+  ],
+  "salsa__chicken": [
+    0,
+    0
+  ],
+  "onion__bread": [
+    0,
+    0
+  ],
+  "spice__potato": [
+    0,
+    0
+  ],
+  "garlic_powder__basil": [
+    0,
+    0
+  ],
+  "cheese__green_onion": [
+    0,
+    0
+  ],
+  "garlic__egg": [
+    0,
+    0
+  ],
+  "fat__dressing": [
+    0,
+    0
+  ],
+  "bread__milk": [
+    0,
+    0
+  ],
+  "chip__chocolate": [
+    0,
+    0
+  ],
+  "mushroom__green_onion": [
+    0,
+    0
+  ],
+  "potato__broccoli": [
+    0,
+    0
+  ],
+  "tortilla__sour_cream": [
+    0,
+    0
+  ],
+  "pepper__potato": [
+    0,
+    0
+  ],
+  "frosting__butter": [
+    0,
+    0
+  ],
+  "rum__cake": [
+    0,
+    0
+  ],
+  "apple__walnut": [
+    0,
+    0
+  ],
+  "onion__ground_beef": [
+    0,
+    0
+  ],
+  "flour__spice": [
+    0,
+    0
+  ],
+  "chicken_breast__pepper": [
+    0,
+    0
+  ],
+  "crust__cheese": [
+    0,
+    0
+  ],
+  "leek__soup": [
+    0,
+    0
+  ],
+  "basil__olive_oil": [
+    0,
+    0
+  ],
+  "flour__cream": [
+    0,
+    0
+  ],
+  "apple__tart": [
+    0,
+    0
+  ],
+  "black__bean_soup": [
+    0,
+    0
+  ],
+  "salt__vinegar": [
+    0,
+    0
+  ],
+  "vinegar__buttermilk": [
+    0,
+    0
+  ],
+  "caramel__chocolate": [
+    1,
+    1
+  ],
+  "oil__batter": [
+    0,
+    0
+  ],
+  "potato__cream": [
+    0,
+    0
+  ],
+  "oat__flour": [
+    0,
+    0
+  ],
+  "onion__salsa": [
+    0,
+    0
+  ],
+  "peach__pie": [
+    0,
+    0
+  ],
+  "raisin__sugar": [
+    0,
+    0
+  ],
+  "dressing__pasta": [
+    0,
+    0
+  ],
+  "meal__sauce": [
+    0,
+    0
+  ],
+  "herb__parsley": [
+    0,
+    1
+  ],
+  "garlic__hot_sauce": [
+    0,
+    0
+  ],
+  "melted_butter__oil": [
+    1,
+    0
+  ],
+  "peanut_butter__frosting": [
+    0,
+    0
+  ],
+  "honey__garlic": [
+    0,
+    0
+  ],
+  "peach__blueberry": [
+    0,
+    0
+  ],
+  "garlic__italian_seasoning": [
+    0,
+    0
+  ],
+  "tomato__chili": [
+    0,
+    0
+  ],
+  "jalapeno__cheese": [
+    0,
+    0
+  ],
+  "sweet_potato__pie": [
+    0,
+    0
+  ],
+  "ground_beef__sauce": [
+    0,
+    0
+  ],
+  "garlic__bread_crumb": [
+    0,
+    0
+  ],
+  "mushroom__broth": [
+    0,
+    0
+  ],
+  "egg__sour_cream": [
+    0,
+    0
+  ],
+  "fat__egg": [
+    0,
+    0
+  ],
+  "dressing__garlic": [
+    0,
+    0
+  ],
+  "muffin__butter": [
+    0,
+    0
+  ],
+  "potato__salad": [
+    0,
+    0
+  ],
+  "cinnamon__nutmeg": [
+    1,
+    1
+  ],
+  "splenda__sugar": [
+    1,
+    1
+  ],
+  "onion__pepper": [
+    0,
+    0
+  ],
+  "onion__celery": [
+    0,
+    0
+  ],
+  "carrot__onion": [
+    0,
+    0
+  ],
+  "butter__flour": [
+    0,
+    0
+  ],
+  "garlic__salt": [
+    0,
+    0
+  ],
+  "butter__shortening": [
+    1,
+    1
+  ],
+  "cream__mushroom_soup": [
+    0,
+    0
+  ],
+  "bread__pudding": [
+    0,
+    0
+  ],
+  "potato__carrot": [
+    0,
+    0
+  ],
+  "basil__oregano": [
+    1,
+    1
+  ],
+  "flour__dough": [
+    0,
+    0
+  ],
+  "chicken__rice": [
+    0,
+    0
+  ],
+  "cinnamon__sugar": [
+    0,
+    0
+  ],
+  "icing__sugar": [
+    0,
+    0
+  ],
+  "milk__water": [
+    0,
+    0
+  ],
+  "water__sauce": [
+    0,
+    0
+  ],
+  "mushroom__garlic": [
+    0,
+    0
+  ],
+  "brown_sugar__cinnamon": [
+    0,
+    0
+  ],
+  "broth__water": [
+    1,
+    0
+  ],
+  "flour__sugar": [
+    0,
+    0
+  ],
+  "cinnamon__vanilla": [
+    1,
+    1
+  ],
+  "butter__egg": [
+    0,
+    0
+  ],
+  "garlic_powder__pepper": [
+    0,
+    0
+  ],
+  "tuna__salad": [
+    0,
+    0
+  ],
+  "bean__sprout": [
+    0,
+    0
+  ],
+  "onion__green_pepper": [
+    0,
+    0
+  ],
+  "spinach__salad": [
+    0,
+    1
+  ],
+  "rice__pudding": [
+    0,
+    0
+  ],
+  "bread__loaf": [
+    1,
+    1
+  ],
+  "sauce__fish": [
+    0,
+    0
+  ],
+  "buttermilk__milk": [
+    1,
+    0
+  ],
+  "oil__sugar": [
+    0,
+    0
+  ],
+  "chicken__cheese": [
+    0,
+    0
+  ],
+  "garlic__onion_powder": [
+    1,
+    0
+  ],
+  "splenda__brown_sugar": [
+    1,
+    1
+  ],
+  "garlic_powder__onion_powder": [
+    1,
+    1
+  ],
+  "shallot__onion": [
+    1,
+    1
+  ],
+  "garlic__parsley": [
+    0,
+    0
+  ],
+  "apple__cinnamon": [
+    0,
+    0
+  ],
+  "macaroni__cheese": [
+    0,
+    0
+  ],
+  "spice__cinnamon": [
+    0,
+    0
+  ],
+  "onion__garlic_powder": [
+    0,
+    1
+  ],
+  "cumin__chili_powder": [
+    0,
+    0
+  ],
+  "salt__seasoning": [
+    0,
+    0
+  ],
+  "butter__cinnamon": [
+    0,
+    0
+  ],
+  "carrot__garlic": [
+    0,
+    0
+  ],
+  "onion__water": [
+    0,
+    0
+  ],
+  "garlic__mashed_potato": [
+    0,
+    0
+  ],
+  "chicken__seasoning": [
+    0,
+    0
+  ],
+  "salt__sauce": [
+    0,
+    0
+  ],
+  "chicken__salad": [
+    0,
+    0
+  ],
+  "lettuce__tomato": [
+    0,
+    0
+  ],
+  "pea__carrot": [
+    0,
+    0
+  ],
+  "chicken__pork": [
+    1,
+    1
+  ],
+  "honey__butter": [
+    0,
+    0
+  ],
+  "ham__cheese": [
+    0,
+    0
+  ],
+  "pepper__jack_cheese": [
+    0,
+    0
+  ],
+  "fat__yogurt": [
+    0,
+    0
+  ],
+  "rice__salad": [
+    0,
+    0
+  ],
+  "sour_cream__cheese": [
+    0,
+    0
+  ],
+  "asiago__cheese": [
+    1,
+    0
+  ],
+  "celery__garlic": [
+    0,
+    0
+  ],
+  "broccoli__carrot": [
+    0,
+    0
+  ],
+  "chicken__beef": [
+    1,
+    1
+  ],
+  "shrimp__sauce": [
+    0,
+    0
+  ],
+  "zucchini__bread": [
+    0,
+    0
+  ],
+  "chicken__olive_oil": [
+    0,
+    0
+  ],
+  "cream__sauce": [
+    0,
+    1
+  ],
+  "garlic__garlic_powder": [
+    1,
+    1
+  ],
+  "onion__broth": [
+    0,
+    0
+  ],
+  "flour__baking_powder": [
+    0,
+    0
+  ],
+  "egg__egg_white": [
+    1,
+    1
+  ],
+  "water__soup": [
+    0,
+    0
+  ],
+  "batter__muffin": [
+    0,
+    0
+  ],
+  "spice__sauce": [
+    0,
+    0
+  ],
+  "mushroom__cheese": [
+    0,
+    0
+  ],
+  "sugar__batter": [
+    0,
+    0
+  ],
+  "butter__pepper": [
+    0,
+    0
+  ],
+  "rice__meal": [
+    0,
+    0
+  ],
+  "cream_cheese__sour_cream": [
+    1,
+    1
+  ],
+  "glaze__cake": [
+    0,
+    0
+  ],
+  "cheese__parmesan": [
+    0,
+    1
+  ],
+  "chicken__dumpling": [
+    0,
+    0
+  ],
+  "egg__salt": [
+    0,
+    0
+  ],
+  "dough__loaf": [
+    0,
+    0
+  ],
+  "milk__sauce": [
+    0,
+    0
+  ],
+  "cinnamon__raisin": [
+    0,
+    0
+  ],
+  "sausage__onion": [
+    0,
+    0
+  ],
+  "soup__broth": [
+    0,
+    0
+  ],
+  "chocolate__icing": [
+    0,
+    1
+  ],
+  "pepper__cheese": [
+    0,
+    0
+  ],
+  "flour__batter": [
+    0,
+    0
+  ],
+  "lemon_juice__zest": [
+    1,
+    1
+  ],
+  "heavy_cream__milk": [
+    1,
+    0
+  ],
+  "mushroom__pepper": [
+    0,
+    0
+  ],
+  "milk__batter": [
+    0,
+    0
+  ],
+  "cheese__topping": [
+    0,
+    0
+  ],
+  "chicken_breast__sauce": [
+    0,
+    0
+  ],
+  "spice__nutmeg": [
+    0,
+    0
+  ],
+  "nutmeg__allspice": [
+    1,
+    0
+  ],
+  "sauce__potato": [
+    0,
+    0
+  ],
+  "fat__soup": [
+    0,
+    0
+  ],
+  "spice__ginger": [
+    0,
+    0
+  ],
+  "garlic__cilantro": [
+    0,
+    0
+  ],
+  "nutmeg__ginger": [
+    0,
+    0
+  ],
+  "salad__tomato": [
+    0,
+    0
+  ],
+  "leave__salt": [
+    0,
+    0
+  ],
+  "vanilla__batter": [
+    0,
+    0
+  ],
+  "broccoli__onion": [
+    0,
+    0
+  ],
+  "chicken__oil": [
+    0,
+    0
+  ],
+  "garlic__soup": [
+    0,
+    0
+  ],
+  "butter__dough": [
+    0,
+    0
+  ],
+  "chicken__tomato": [
+    0,
+    0
+  ],
+  "mushroom__carrot": [
+    0,
+    0
+  ],
+  "whole_wheat_flour__white_flour": [
+    1,
+    1
+  ],
+  "nut__raisin": [
+    0,
+    0
+  ],
+  "whole_wheat_flour__flour": [
+    1,
+    1
+  ],
+  "parsley__basil": [
+    1,
+    1
+  ],
+  "raisin__cookie": [
+    0,
+    0
+  ],
+  "rice__pasta": [
+    0,
+    0
+  ],
+  "beef__onion": [
+    0,
+    0
+  ],
+  "oregano__pepper": [
+    0,
+    0
+  ],
+  "white_wine__sauce": [
+    0,
+    0
+  ],
+  "cabbage__carrot": [
+    0,
+    0
+  ],
+  "sugar__glaze": [
+    0,
+    0
+  ],
+  "honey__sauce": [
+    0,
+    0
+  ],
+  "spice__cayenne": [
+    0,
+    1
+  ],
+  "veggie__broccoli": [
+    0,
+    0
+  ],
+  "milk__sour_cream": [
+    0,
+    0
+  ],
+  "apple__oil": [
+    0,
+    0
+  ],
+  "juice__water": [
+    1,
+    0
+  ],
+  "oatmeal__raisin": [
+    0,
+    0
+  ],
+  "whole_wheat_flour__sugar": [
+    0,
+    0
+  ],
+  "blueberry__raspberry": [
+    1,
+    1
+  ],
+  "butter__pecan": [
+    0,
+    0
+  ],
+  "diced_tomato__garlic": [
+    0,
+    0
+  ],
+  "onion_powder__salt": [
+    0,
+    0
+  ],
+  "coconut_oil__butter": [
+    1,
+    1
+  ],
+  "tomato__cucumber": [
+    0,
+    0
+  ],
+  "salad__sandwich": [
+    0,
+    0
+  ],
+  "low_fat_cream__cheese": [
+    0,
+    0
+  ],
+  "sour_cream__sauce": [
+    0,
+    0
+  ],
+  "ground_turkey__beef": [
+    0,
+    0
+  ],
+  "cumin__cayenne": [
+    1,
+    1
+  ],
+  "fruit__nut": [
+    0,
+    0
+  ],
+  "leave__onion": [
+    0,
+    0
+  ],
+  "onion__chicken_broth": [
+    0,
+    0
+  ],
+  "sauce__vegetable": [
+    0,
+    0
+  ],
+  "glaze__powdered_sugar": [
+    1,
+    1
+  ],
+  "zucchini__mushroom": [
+    0,
+    0
+  ],
+  "garlic__black_pepper": [
+    0,
+    0
+  ],
+  "salt__cayenne": [
+    0,
+    0
+  ],
+  "banana__nut": [
+    0,
+    0
+  ],
+  "mozzarella__parmesan": [
+    0,
+    0
+  ],
+  "basil__salt": [
+    0,
+    0
+  ],
+  "rice__broccoli": [
+    0,
+    0
+  ],
+  "nut__bread": [
+    0,
+    0
+  ],
+  "juice__gravy": [
+    0,
+    0
+  ],
+  "chocolate__frosting": [
+    0,
+    1
+  ],
+  "chocolate__butter": [
+    0,
+    0
+  ],
+  "spaghetti__noodle": [
+    1,
+    0
+  ],
+  "corn__black_bean": [
+    1,
+    1
+  ],
+  "oil__spice": [
+    0,
+    0
+  ],
+  "leave__sugar": [
+    0,
+    0
+  ],
+  "olive_oil__sauce": [
+    0,
+    0
+  ],
+  "flour__cinnamon": [
+    0,
+    0
+  ],
+  "oil__dressing": [
+    0,
+    1
+  ],
+  "cinnamon__chip": [
+    0,
+    0
+  ],
+  "rice__soup": [
+    0,
+    0
+  ],
+  "sugar__banana": [
+    0,
+    0
+  ],
+  "garlic__toast": [
+    0,
+    0
+  ],
+  "carrot__pepper": [
+    0,
+    0
+  ],
+  "egg__batter": [
+    0,
+    0
+  ],
+  "apple__onion": [
+    0,
+    0
+  ],
+  "onion__cumin": [
+    0,
+    0
+  ],
+  "vanilla_bean__ice_cream": [
+    0,
+    0
+  ],
+  "garlic__rice": [
+    0,
+    0
+  ],
+  "chocolate_chip__batter": [
+    0,
+    0
+  ],
+  "coconut__cake": [
+    0,
+    0
+  ],
+  "sour_cream__topping": [
+    0,
+    0
+  ],
+  "egg__sauce": [
+    0,
+    0
+  ],
+  "orange__lemon": [
+    1,
+    1
+  ],
+  "sauce__salad": [
+    0,
+    0
+  ],
+  "chicken__juice": [
+    0,
+    0
+  ],
+  "sodium__chicken_broth": [
+    1,
+    1
+  ],
+  "soup__mushroom": [
+    0,
+    0
+  ],
+  "chicken__parmesan": [
+    0,
+    0
+  ],
+  "honey__cinnamon": [
+    0,
+    0
+  ],
+  "dill__sauce": [
+    0,
+    0
+  ],
+  "broccoli__salad": [
+    0,
+    0
+  ],
+  "potato__celery": [
+    0,
+    0
+  ],
+  "chicken__fish": [
+    0,
+    0
+  ],
+  "chopped_onion__garlic": [
+    0,
+    0
+  ],
+  "broccoli__cheese": [
+    0,
+    0
+  ],
+  "sausage__cheese": [
+    0,
+    0
+  ],
+  "garlic__white_wine": [
+    0,
+    0
+  ],
+  "ginger__cookie": [
+    0,
+    0
+  ],
+  "butter__lemon_juice": [
+    0,
+    0
+  ],
+  "olive_oil__fat": [
+    1,
+    0
+  ],
+  "seasoning__oregano": [
+    0,
+    1
+  ],
+  "beer__bread": [
+    0,
+    0
+  ],
+  "tomato__olive": [
+    0,
+    0
+  ],
+  "lemon_juice__pepper": [
+    0,
+    0
+  ],
+  "onion__oregano": [
+    0,
+    0
+  ],
+  "bean__rice": [
+    0,
+    0
+  ],
+  "garlic__green_onion": [
+    0,
+    0
+  ],
+  "garlic__marinade": [
+    0,
+    0
+  ],
+  "cake__batter": [
+    0,
+    0
+  ],
+  "garlic_powder__black_pepper": [
+    0,
+    0
+  ],
+  "sauce__mashed_potato": [
+    0,
+    0
+  ],
+  "thyme__garlic": [
+    0,
+    0
+  ],
+  "olive_oil__water": [
+    0,
+    0
+  ],
+  "garlic_powder__paprika": [
+    0,
+    0
+  ],
+  "onion_powder__pepper": [
+    0,
+    0
+  ],
+  "sauce__wine": [
+    0,
+    0
+  ],
+  "cake__muffin": [
+    0,
+    0
+  ],
+  "onion__dressing": [
+    0,
+    0
+  ],
+  "walnut__raisin": [
+    0,
+    0
+  ],
+  "onion__garlic_clove": [
+    0,
+    0
+  ],
+  "beef__soup": [
+    0,
+    0
+  ],
+  "olive_oil__dressing": [
+    0,
+    1
+  ],
+  "sugar__pudding": [
+    0,
+    0
+  ],
+  "sugar__maple_syrup": [
+    1,
+    1
+  ],
+  "celery__pepper": [
+    0,
+    0
+  ],
+  "herb__thyme": [
+    0,
+    1
+  ],
+  "onion__thyme": [
+    0,
+    0
+  ],
+  "banana__cinnamon": [
+    0,
+    0
+  ],
+  "garlic_powder__seasoning": [
+    0,
+    0
+  ],
+  "soy_sauce__garlic": [
+    0,
+    0
+  ],
+  "water__spice": [
+    0,
+    0
+  ],
+  "cumin__oregano": [
+    0,
+    0
+  ],
+  "carrot__corn": [
+    0,
+    0
+  ],
+  "parsley__pepper": [
+    0,
+    0
+  ],
+  "soup__veggie": [
+    0,
+    0
+  ],
+  "olive_oil__garlic_powder": [
+    0,
+    0
+  ],
+  "shrimp__pasta": [
+    0,
+    0
+  ],
+  "garlic__garlic_salt": [
+    1,
+    1
+  ],
+  "chicken__tortilla": [
+    0,
+    0
+  ],
+  "brown_sugar__salt": [
+    0,
+    0
+  ],
+  "lemon_juice__sauce": [
+    0,
+    0
+  ],
+  "potato__milk": [
+    0,
+    0
+  ],
+  "sauce__glaze": [
+    0,
+    0
+  ],
+  "potato__egg": [
+    0,
+    0
+  ],
+  "raisin__chocolate_chip": [
+    1,
+    1
+  ],
+  "shiitake__mushroom": [
+    1,
+    1
+  ],
+  "bacon__potato": [
+    0,
+    0
+  ],
+  "leave__sauce": [
+    0,
+    0
+  ],
+  "cinnamon__cake": [
+    0,
+    0
+  ],
+  "wheat__noodle": [
+    0,
+    0
+  ],
+  "vegetable_broth__water": [
+    1,
+    0
+  ],
+  "flour__baking_soda": [
+    0,
+    0
+  ],
+  "herb__butter": [
+    0,
+    0
+  ],
+  "chocolate__coffee": [
+    0,
+    0
+  ],
+  "cinnamon__bun": [
+    0,
+    0
+  ],
+  "tomato_paste__water": [
+    0,
+    0
+  ],
+  "sugar__nut": [
+    0,
+    0
+  ],
+  "apple__topping": [
+    0,
+    0
+  ],
+  "cumin__spice": [
+    0,
+    0
+  ],
+  "onion__bean": [
+    0,
+    0
+  ],
+  "chocolate__crust": [
+    0,
+    0
+  ],
+  "cheese__cream_cheese": [
+    0,
+    1
+  ],
+  "cream__frosting": [
+    0,
+    0
+  ],
+  "red_pepper_flake__spice": [
+    1,
+    0
+  ],
+  "water__gravy": [
+    0,
+    0
+  ]
+}
