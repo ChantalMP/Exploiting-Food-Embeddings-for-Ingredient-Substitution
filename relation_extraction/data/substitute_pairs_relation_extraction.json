@@ -1,0 +1,5574 @@
+[
+  [
+    "cinnamon",
+    "nutmeg"
+  ],
+  [
+    "nutmeg",
+    "cinnamon"
+  ],
+  [
+    "splenda",
+    "sugar"
+  ],
+  [
+    "sugar",
+    "splenda"
+  ],
+  [
+    "butter",
+    "olive oil"
+  ],
+  [
+    "chicken broth",
+    "water"
+  ],
+  [
+    "carrot",
+    "celery"
+  ],
+  [
+    "celery",
+    "carrot"
+  ],
+  [
+    "loaf",
+    "bread"
+  ],
+  [
+    "bread",
+    "loaf"
+  ],
+  [
+    "butter",
+    "shortening"
+  ],
+  [
+    "shortening",
+    "butter"
+  ],
+  [
+    "butter",
+    "margarine"
+  ],
+  [
+    "margarine",
+    "butter"
+  ],
+  [
+    "oil",
+    "butter"
+  ],
+  [
+    "butter",
+    "oil"
+  ],
+  [
+    "cream",
+    "milk"
+  ],
+  [
+    "jalapeno",
+    "pepper"
+  ],
+  [
+    "pepper",
+    "jalapeno"
+  ],
+  [
+    "basil",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "basil"
+  ],
+  [
+    "sugar",
+    "vanilla"
+  ],
+  [
+    "angel hair",
+    "pasta"
+  ],
+  [
+    "sodium",
+    "soy sauce"
+  ],
+  [
+    "soy sauce",
+    "sodium"
+  ],
+  [
+    "pecan",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "pecan"
+  ],
+  [
+    "vanilla",
+    "cinnamon"
+  ],
+  [
+    "cinnamon",
+    "vanilla"
+  ],
+  [
+    "honey",
+    "sugar"
+  ],
+  [
+    "sugar",
+    "honey"
+  ],
+  [
+    "garlic",
+    "herb"
+  ],
+  [
+    "white sugar",
+    "brown sugar"
+  ],
+  [
+    "kalamata",
+    "olive"
+  ],
+  [
+    "panko",
+    "bread crumb"
+  ],
+  [
+    "bread crumb",
+    "panko"
+  ],
+  [
+    "brown sugar",
+    "sugar"
+  ],
+  [
+    "garlic",
+    "seasoning"
+  ],
+  [
+    "garlic",
+    "spice"
+  ],
+  [
+    "chicken stock",
+    "water"
+  ],
+  [
+    "salad",
+    "spinach"
+  ],
+  [
+    "herb",
+    "spice"
+  ],
+  [
+    "spice",
+    "herb"
+  ],
+  [
+    "buttermilk",
+    "milk"
+  ],
+  [
+    "chicken",
+    "mushroom"
+  ],
+  [
+    "mushroom",
+    "chicken"
+  ],
+  [
+    "marinade",
+    "sauce"
+  ],
+  [
+    "sauce",
+    "marinade"
+  ],
+  [
+    "garlic",
+    "onion powder"
+  ],
+  [
+    "splenda",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "splenda"
+  ],
+  [
+    "garlic powder",
+    "onion powder"
+  ],
+  [
+    "onion powder",
+    "garlic powder"
+  ],
+  [
+    "zest",
+    "lemon"
+  ],
+  [
+    "lemon",
+    "zest"
+  ],
+  [
+    "garlic powder",
+    "onion"
+  ],
+  [
+    "boneless",
+    "skinless chicken breast"
+  ],
+  [
+    "skinless chicken breast",
+    "boneless"
+  ],
+  [
+    "rosemary",
+    "thyme"
+  ],
+  [
+    "thyme",
+    "rosemary"
+  ],
+  [
+    "chicken",
+    "shrimp"
+  ],
+  [
+    "yogurt",
+    "sour cream"
+  ],
+  [
+    "sour cream",
+    "yogurt"
+  ],
+  [
+    "chicken",
+    "pork"
+  ],
+  [
+    "pork",
+    "chicken"
+  ],
+  [
+    "beef broth",
+    "water"
+  ],
+  [
+    "cinnamon",
+    "allspice"
+  ],
+  [
+    "allspice",
+    "cinnamon"
+  ],
+  [
+    "lemon",
+    "lime"
+  ],
+  [
+    "lime",
+    "lemon"
+  ],
+  [
+    "cilantro",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "cilantro"
+  ],
+  [
+    "basil",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "basil"
+  ],
+  [
+    "panko",
+    "crumb"
+  ],
+  [
+    "asiago",
+    "cheese"
+  ],
+  [
+    "chicken",
+    "beef"
+  ],
+  [
+    "beef",
+    "chicken"
+  ],
+  [
+    "sauce",
+    "cream"
+  ],
+  [
+    "broccoli",
+    "cauliflower"
+  ],
+  [
+    "cauliflower",
+    "broccoli"
+  ],
+  [
+    "garlic powder",
+    "garlic"
+  ],
+  [
+    "lemon juice",
+    "lemon"
+  ],
+  [
+    "egg white",
+    "egg"
+  ],
+  [
+    "strawberry",
+    "blueberry"
+  ],
+  [
+    "blueberry",
+    "strawberry"
+  ],
+  [
+    "cream cheese",
+    "sour cream"
+  ],
+  [
+    "sour cream",
+    "cream cheese"
+  ],
+  [
+    "parmesan",
+    "cheese"
+  ],
+  [
+    "green onion",
+    "onion"
+  ],
+  [
+    "icing",
+    "chocolate"
+  ],
+  [
+    "honey",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "honey"
+  ],
+  [
+    "olive oil",
+    "oil"
+  ],
+  [
+    "lemon juice",
+    "zest"
+  ],
+  [
+    "zest",
+    "lemon juice"
+  ],
+  [
+    "heavy cream",
+    "milk"
+  ],
+  [
+    "shrimp",
+    "scallop"
+  ],
+  [
+    "scallop",
+    "shrimp"
+  ],
+  [
+    "baking powder",
+    "baking soda"
+  ],
+  [
+    "baking soda",
+    "baking powder"
+  ],
+  [
+    "oregano",
+    "thyme"
+  ],
+  [
+    "thyme",
+    "oregano"
+  ],
+  [
+    "nutmeg",
+    "allspice"
+  ],
+  [
+    "chicken breast",
+    "chicken"
+  ],
+  [
+    "garlic salt",
+    "salt"
+  ],
+  [
+    "olive oil",
+    "vegetable oil"
+  ],
+  [
+    "vegetable oil",
+    "olive oil"
+  ],
+  [
+    "chocolate chip",
+    "chocolate"
+  ],
+  [
+    "beef",
+    "pork"
+  ],
+  [
+    "pork",
+    "beef"
+  ],
+  [
+    "cupcake",
+    "cake"
+  ],
+  [
+    "whole wheat flour",
+    "white flour"
+  ],
+  [
+    "white flour",
+    "whole wheat flour"
+  ],
+  [
+    "strawberry",
+    "raspberry"
+  ],
+  [
+    "raspberry",
+    "strawberry"
+  ],
+  [
+    "zest",
+    "orange"
+  ],
+  [
+    "orange",
+    "zest"
+  ],
+  [
+    "mozzarella",
+    "cheese"
+  ],
+  [
+    "rub",
+    "spice"
+  ],
+  [
+    "cayenne",
+    "spice"
+  ],
+  [
+    "zucchini",
+    "carrot"
+  ],
+  [
+    "black bean",
+    "corn"
+  ],
+  [
+    "corn",
+    "black bean"
+  ],
+  [
+    "juice",
+    "water"
+  ],
+  [
+    "wheat",
+    "white flour"
+  ],
+  [
+    "white flour",
+    "wheat"
+  ],
+  [
+    "garlic powder",
+    "garlic salt"
+  ],
+  [
+    "garlic salt",
+    "garlic powder"
+  ],
+  [
+    "blueberry",
+    "raspberry"
+  ],
+  [
+    "raspberry",
+    "blueberry"
+  ],
+  [
+    "turkey",
+    "chicken"
+  ],
+  [
+    "chicken",
+    "turkey"
+  ],
+  [
+    "coconut oil",
+    "butter"
+  ],
+  [
+    "butter",
+    "coconut oil"
+  ],
+  [
+    "maraschino",
+    "cherry"
+  ],
+  [
+    "cherry",
+    "maraschino"
+  ],
+  [
+    "bacon",
+    "ham"
+  ],
+  [
+    "ham",
+    "bacon"
+  ],
+  [
+    "oregano",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "oregano"
+  ],
+  [
+    "butter",
+    "crisco"
+  ],
+  [
+    "crisco",
+    "butter"
+  ],
+  [
+    "glaze",
+    "powdered sugar"
+  ],
+  [
+    "powdered sugar",
+    "glaze"
+  ],
+  [
+    "pumpkin pie spice",
+    "cinnamon"
+  ],
+  [
+    "cinnamon",
+    "pumpkin pie spice"
+  ],
+  [
+    "dried cranberry",
+    "raisin"
+  ],
+  [
+    "raisin",
+    "dried cranberry"
+  ],
+  [
+    "egg",
+    "yolk"
+  ],
+  [
+    "yolk",
+    "egg"
+  ],
+  [
+    "boneless",
+    "pork chop"
+  ],
+  [
+    "pork chop",
+    "boneless"
+  ],
+  [
+    "frosting",
+    "chocolate"
+  ],
+  [
+    "salt",
+    "soy sauce"
+  ],
+  [
+    "soy sauce",
+    "salt"
+  ],
+  [
+    "spaghetti",
+    "noodle"
+  ],
+  [
+    "tomato sauce",
+    "sauce"
+  ],
+  [
+    "salt",
+    "broth"
+  ],
+  [
+    "broth",
+    "salt"
+  ],
+  [
+    "dressing",
+    "oil"
+  ],
+  [
+    "cottage cheese",
+    "ricotta"
+  ],
+  [
+    "ricotta",
+    "cottage cheese"
+  ],
+  [
+    "cocoa",
+    "chocolate"
+  ],
+  [
+    "wine",
+    "chicken broth"
+  ],
+  [
+    "orange",
+    "lemon"
+  ],
+  [
+    "lemon",
+    "orange"
+  ],
+  [
+    "sodium",
+    "chicken broth"
+  ],
+  [
+    "chicken broth",
+    "sodium"
+  ],
+  [
+    "chicken broth",
+    "salt"
+  ],
+  [
+    "salt",
+    "chicken broth"
+  ],
+  [
+    "wine",
+    "water"
+  ],
+  [
+    "seasoning",
+    "spice"
+  ],
+  [
+    "spice",
+    "seasoning"
+  ],
+  [
+    "bacon",
+    "fat"
+  ],
+  [
+    "chicken broth",
+    "broth"
+  ],
+  [
+    "onion powder",
+    "onion"
+  ],
+  [
+    "wine",
+    "broth"
+  ],
+  [
+    "olive oil",
+    "fat"
+  ],
+  [
+    "oregano",
+    "seasoning"
+  ],
+  [
+    "sour cream",
+    "cream"
+  ],
+  [
+    "almond",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "almond"
+  ],
+  [
+    "lime juice",
+    "lemon"
+  ],
+  [
+    "garlic clove",
+    "onion"
+  ],
+  [
+    "plain yogurt",
+    "sour cream"
+  ],
+  [
+    "sour cream",
+    "plain yogurt"
+  ],
+  [
+    "dressing",
+    "olive oil"
+  ],
+  [
+    "sugar",
+    "maple syrup"
+  ],
+  [
+    "maple syrup",
+    "sugar"
+  ],
+  [
+    "thyme",
+    "herb"
+  ],
+  [
+    "garlic salt",
+    "garlic"
+  ],
+  [
+    "pecan",
+    "almond"
+  ],
+  [
+    "raisin",
+    "chocolate chip"
+  ],
+  [
+    "chocolate chip",
+    "raisin"
+  ],
+  [
+    "shiitake",
+    "mushroom"
+  ],
+  [
+    "mushroom",
+    "shiitake"
+  ],
+  [
+    "vegetable broth",
+    "water"
+  ],
+  [
+    "lemon zest",
+    "lemon"
+  ],
+  [
+    "zucchini",
+    "yellow squash"
+  ],
+  [
+    "yellow squash",
+    "zucchini"
+  ],
+  [
+    "boneless",
+    "skinless chicken thigh"
+  ],
+  [
+    "skinless chicken thigh",
+    "boneless"
+  ],
+  [
+    "tomato sauce",
+    "water"
+  ],
+  [
+    "cream cheese",
+    "cheese"
+  ],
+  [
+    "red pepper flake",
+    "spice"
+  ],
+  [
+    "curry",
+    "spice"
+  ],
+  [
+    "sweet potato",
+    "potato"
+  ],
+  [
+    "honey",
+    "maple syrup"
+  ],
+  [
+    "maple syrup",
+    "honey"
+  ],
+  [
+    "frozen pea",
+    "carrot"
+  ],
+  [
+    "honey",
+    "molasse"
+  ],
+  [
+    "molasse",
+    "honey"
+  ],
+  [
+    "oregano",
+    "spice"
+  ],
+  [
+    "blueberry",
+    "blackberry"
+  ],
+  [
+    "blackberry",
+    "blueberry"
+  ],
+  [
+    "diced tomato",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "diced tomato"
+  ],
+  [
+    "white wine",
+    "chicken broth"
+  ],
+  [
+    "vegetable broth",
+    "chicken broth"
+  ],
+  [
+    "chicken broth",
+    "vegetable broth"
+  ],
+  [
+    "white sugar",
+    "sugar"
+  ],
+  [
+    "rosemary",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "rosemary"
+  ],
+  [
+    "gorgonzola",
+    "cheese"
+  ],
+  [
+    "minced garlic",
+    "garlic powder"
+  ],
+  [
+    "diced tomato",
+    "tomato"
+  ],
+  [
+    "orange juice",
+    "water"
+  ],
+  [
+    "butter",
+    "canola oil"
+  ],
+  [
+    "ciabatta",
+    "bread"
+  ],
+  [
+    "cauliflower",
+    "carrot"
+  ],
+  [
+    "carrot",
+    "cauliflower"
+  ],
+  [
+    "tomato sauce",
+    "tomato"
+  ],
+  [
+    "rosemary",
+    "herb"
+  ],
+  [
+    "white wine",
+    "water"
+  ],
+  [
+    "carrot",
+    "red pepper"
+  ],
+  [
+    "red pepper",
+    "carrot"
+  ],
+  [
+    "fresh basil",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "fresh basil"
+  ],
+  [
+    "raspberry",
+    "blackberry"
+  ],
+  [
+    "blackberry",
+    "raspberry"
+  ],
+  [
+    "soy sauce",
+    "water"
+  ],
+  [
+    "cayenne pepper",
+    "spice"
+  ],
+  [
+    "lemon zest",
+    "lemon juice"
+  ],
+  [
+    "lemon juice",
+    "lemon zest"
+  ],
+  [
+    "brown sugar",
+    "molasse"
+  ],
+  [
+    "molasse",
+    "brown sugar"
+  ],
+  [
+    "fresh basil",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "fresh basil"
+  ],
+  [
+    "oregano",
+    "herb"
+  ],
+  [
+    "celery",
+    "green pepper"
+  ],
+  [
+    "green pepper",
+    "celery"
+  ],
+  [
+    "cocoa powder",
+    "chocolate"
+  ],
+  [
+    "shrimp",
+    "crab"
+  ],
+  [
+    "crab",
+    "shrimp"
+  ],
+  [
+    "minced garlic",
+    "garlic"
+  ],
+  [
+    "chili",
+    "spice"
+  ],
+  [
+    "fresh basil",
+    "leave"
+  ],
+  [
+    "soy milk",
+    "milk"
+  ],
+  [
+    "evaporated milk",
+    "milk"
+  ],
+  [
+    "bacon",
+    "pancetta"
+  ],
+  [
+    "pancetta",
+    "bacon"
+  ],
+  [
+    "cinnamon",
+    "cardamom"
+  ],
+  [
+    "cardamom",
+    "cinnamon"
+  ],
+  [
+    "coconut milk",
+    "milk"
+  ],
+  [
+    "panko",
+    "breadcrumb"
+  ],
+  [
+    "carrot",
+    "green bean"
+  ],
+  [
+    "green bean",
+    "carrot"
+  ],
+  [
+    "ground turkey",
+    "ground beef"
+  ],
+  [
+    "ground beef",
+    "ground turkey"
+  ],
+  [
+    "feta",
+    "cheese"
+  ],
+  [
+    "udon",
+    "noodle"
+  ],
+  [
+    "whole milk",
+    "cream"
+  ],
+  [
+    "mascarpone",
+    "cheese"
+  ],
+  [
+    "lemon juice",
+    "lime"
+  ],
+  [
+    "lime",
+    "lemon juice"
+  ],
+  [
+    "gouda",
+    "cheese"
+  ],
+  [
+    "cinnamon",
+    "vanilla extract"
+  ],
+  [
+    "vanilla extract",
+    "cinnamon"
+  ],
+  [
+    "evaporated milk",
+    "cream"
+  ],
+  [
+    "cream",
+    "evaporated milk"
+  ],
+  [
+    "parsley",
+    "herb"
+  ],
+  [
+    "melted butter",
+    "oil"
+  ],
+  [
+    "tilapia",
+    "fish"
+  ],
+  [
+    "chicken broth",
+    "milk"
+  ],
+  [
+    "coconut milk",
+    "water"
+  ],
+  [
+    "strawberry",
+    "blackberry"
+  ],
+  [
+    "blackberry",
+    "strawberry"
+  ],
+  [
+    "pumpkin pie spice",
+    "nutmeg"
+  ],
+  [
+    "nutmeg",
+    "pumpkin pie spice"
+  ],
+  [
+    "margarine",
+    "shortening"
+  ],
+  [
+    "shortening",
+    "margarine"
+  ],
+  [
+    "turkey",
+    "beef"
+  ],
+  [
+    "beef",
+    "turkey"
+  ],
+  [
+    "zest",
+    "lime"
+  ],
+  [
+    "lime",
+    "zest"
+  ],
+  [
+    "sweet potato",
+    "carrot"
+  ],
+  [
+    "carrot",
+    "sweet potato"
+  ],
+  [
+    "splenda",
+    "cinnamon"
+  ],
+  [
+    "cinnamon",
+    "splenda"
+  ],
+  [
+    "garlic clove",
+    "garlic"
+  ],
+  [
+    "garlic salt",
+    "onion"
+  ],
+  [
+    "chipotle",
+    "chili powder"
+  ],
+  [
+    "brown sugar",
+    "maple syrup"
+  ],
+  [
+    "maple syrup",
+    "brown sugar"
+  ],
+  [
+    "blueberry",
+    "berry"
+  ],
+  [
+    "thyme",
+    "spice"
+  ],
+  [
+    "mustard",
+    "dijon"
+  ],
+  [
+    "dijon",
+    "mustard"
+  ],
+  [
+    "orange juice",
+    "orange"
+  ],
+  [
+    "sodium",
+    "beef broth"
+  ],
+  [
+    "beef broth",
+    "sodium"
+  ],
+  [
+    "splenda",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "splenda"
+  ],
+  [
+    "greek yogurt",
+    "sour cream"
+  ],
+  [
+    "sour cream",
+    "greek yogurt"
+  ],
+  [
+    "red wine",
+    "water"
+  ],
+  [
+    "herb",
+    "seasoning"
+  ],
+  [
+    "baby spinach",
+    "leave"
+  ],
+  [
+    "honey",
+    "corn syrup"
+  ],
+  [
+    "corn syrup",
+    "honey"
+  ],
+  [
+    "lime juice",
+    "lime"
+  ],
+  [
+    "cinnamon",
+    "ground clove"
+  ],
+  [
+    "ground clove",
+    "cinnamon"
+  ],
+  [
+    "thyme",
+    "seasoning"
+  ],
+  [
+    "turkey",
+    "sausage"
+  ],
+  [
+    "saltine",
+    "cracker"
+  ],
+  [
+    "garlic powder",
+    "cayenne pepper"
+  ],
+  [
+    "cayenne pepper",
+    "garlic powder"
+  ],
+  [
+    "salad",
+    "olive oil"
+  ],
+  [
+    "diced tomato",
+    "water"
+  ],
+  [
+    "beef",
+    "lamb"
+  ],
+  [
+    "lamb",
+    "beef"
+  ],
+  [
+    "bacon grease",
+    "bacon"
+  ],
+  [
+    "dill",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "dill"
+  ],
+  [
+    "honey",
+    "syrup"
+  ],
+  [
+    "syrup",
+    "honey"
+  ],
+  [
+    "beef stock",
+    "water"
+  ],
+  [
+    "diced tomato",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "diced tomato"
+  ],
+  [
+    "cheddar cheese",
+    "cheese"
+  ],
+  [
+    "coconut milk",
+    "cream"
+  ],
+  [
+    "cream",
+    "coconut milk"
+  ],
+  [
+    "red pepper",
+    "green pepper"
+  ],
+  [
+    "green pepper",
+    "red pepper"
+  ],
+  [
+    "tofu",
+    "chicken"
+  ],
+  [
+    "chicken",
+    "tofu"
+  ],
+  [
+    "orange zest",
+    "orange"
+  ],
+  [
+    "margarine",
+    "fat"
+  ],
+  [
+    "lime juice",
+    "lemon juice"
+  ],
+  [
+    "lemon juice",
+    "lime juice"
+  ],
+  [
+    "boursin",
+    "cheese"
+  ],
+  [
+    "whole wheat flour",
+    "splenda"
+  ],
+  [
+    "splenda",
+    "whole wheat flour"
+  ],
+  [
+    "shallot",
+    "green onion"
+  ],
+  [
+    "green onion",
+    "shallot"
+  ],
+  [
+    "whipping cream",
+    "milk"
+  ],
+  [
+    "butter",
+    "vegetable oil"
+  ],
+  [
+    "vegetable oil",
+    "butter"
+  ],
+  [
+    "bacon bit",
+    "bacon"
+  ],
+  [
+    "ricotta cheese",
+    "cottage cheese"
+  ],
+  [
+    "cottage cheese",
+    "ricotta cheese"
+  ],
+  [
+    "margarine",
+    "olive oil"
+  ],
+  [
+    "ham",
+    "sausage"
+  ],
+  [
+    "sausage",
+    "ham"
+  ],
+  [
+    "diced tomato",
+    "green chilie"
+  ],
+  [
+    "green chilie",
+    "diced tomato"
+  ],
+  [
+    "mushroom",
+    "shrimp"
+  ],
+  [
+    "dried basil",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "dried basil"
+  ],
+  [
+    "black bean",
+    "kidney bean"
+  ],
+  [
+    "kidney bean",
+    "black bean"
+  ],
+  [
+    "chicken broth",
+    "beef broth"
+  ],
+  [
+    "beef broth",
+    "chicken broth"
+  ],
+  [
+    "spaghetti",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "spaghetti"
+  ],
+  [
+    "buttermilk",
+    "sour cream"
+  ],
+  [
+    "rosemary",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "rosemary"
+  ],
+  [
+    "raspberry",
+    "berry"
+  ],
+  [
+    "coconut oil",
+    "vegetable oil"
+  ],
+  [
+    "vegetable oil",
+    "coconut oil"
+  ],
+  [
+    "vegetable stock",
+    "water"
+  ],
+  [
+    "skim milk",
+    "cream"
+  ],
+  [
+    "cream",
+    "skim milk"
+  ],
+  [
+    "carrot",
+    "bell pepper"
+  ],
+  [
+    "bell pepper",
+    "carrot"
+  ],
+  [
+    "goat cheese",
+    "feta"
+  ],
+  [
+    "feta",
+    "goat cheese"
+  ],
+  [
+    "shortening",
+    "oil"
+  ],
+  [
+    "ancho",
+    "chili powder"
+  ],
+  [
+    "chili powder",
+    "ancho"
+  ],
+  [
+    "celery",
+    "red pepper"
+  ],
+  [
+    "red pepper",
+    "celery"
+  ],
+  [
+    "butter",
+    "cooking spray"
+  ],
+  [
+    "chili powder",
+    "cayenne pepper"
+  ],
+  [
+    "cayenne pepper",
+    "chili powder"
+  ],
+  [
+    "thyme",
+    "leave"
+  ],
+  [
+    "pork",
+    "fat"
+  ],
+  [
+    "wine",
+    "cream"
+  ],
+  [
+    "chicken stock",
+    "broth"
+  ],
+  [
+    "boneless",
+    "chicken"
+  ],
+  [
+    "chicken",
+    "boneless"
+  ],
+  [
+    "spaghetti",
+    "pasta"
+  ],
+  [
+    "beef",
+    "mushroom"
+  ],
+  [
+    "mushroom",
+    "beef"
+  ],
+  [
+    "chicken bouillon",
+    "water"
+  ],
+  [
+    "ricotta",
+    "cheese"
+  ],
+  [
+    "chicken stock",
+    "salt"
+  ],
+  [
+    "salt",
+    "chicken stock"
+  ],
+  [
+    "sugar",
+    "molasse"
+  ],
+  [
+    "molasse",
+    "sugar"
+  ],
+  [
+    "zucchini",
+    "red pepper"
+  ],
+  [
+    "red pepper",
+    "zucchini"
+  ],
+  [
+    "peanut butter",
+    "honey"
+  ],
+  [
+    "splenda",
+    "applesauce"
+  ],
+  [
+    "stock",
+    "broth"
+  ],
+  [
+    "garlic salt",
+    "onion powder"
+  ],
+  [
+    "onion powder",
+    "garlic salt"
+  ],
+  [
+    "egg yolk",
+    "egg"
+  ],
+  [
+    "celery",
+    "bell pepper"
+  ],
+  [
+    "bell pepper",
+    "celery"
+  ],
+  [
+    "italian seasoning",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "italian seasoning"
+  ],
+  [
+    "white wine",
+    "broth"
+  ],
+  [
+    "sesame oil",
+    "olive oil"
+  ],
+  [
+    "olive oil",
+    "sesame oil"
+  ],
+  [
+    "fish sauce",
+    "soy sauce"
+  ],
+  [
+    "soy sauce",
+    "fish sauce"
+  ],
+  [
+    "chicken stock",
+    "stock"
+  ],
+  [
+    "arugula",
+    "spinach"
+  ],
+  [
+    "rosemary",
+    "seasoning"
+  ],
+  [
+    "apple juice",
+    "water"
+  ],
+  [
+    "fresh rosemary",
+    "thyme"
+  ],
+  [
+    "thyme",
+    "fresh rosemary"
+  ],
+  [
+    "sodium",
+    "fat"
+  ],
+  [
+    "powdered sugar",
+    "sugar"
+  ],
+  [
+    "cottage cheese",
+    "sour cream"
+  ],
+  [
+    "sour cream",
+    "cottage cheese"
+  ],
+  [
+    "sour cream",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "sour cream"
+  ],
+  [
+    "splenda",
+    "vanilla"
+  ],
+  [
+    "vanilla",
+    "splenda"
+  ],
+  [
+    "marjoram",
+    "thyme"
+  ],
+  [
+    "thyme",
+    "marjoram"
+  ],
+  [
+    "whole milk",
+    "milk"
+  ],
+  [
+    "diced tomato",
+    "jalapeno"
+  ],
+  [
+    "jalapeno",
+    "diced tomato"
+  ],
+  [
+    "olive",
+    "oil"
+  ],
+  [
+    "garlic powder",
+    "thyme"
+  ],
+  [
+    "parmesan cheese",
+    "cheese"
+  ],
+  [
+    "wheat flour",
+    "white flour"
+  ],
+  [
+    "white flour",
+    "wheat flour"
+  ],
+  [
+    "monterey jack",
+    "cheese"
+  ],
+  [
+    "link",
+    "sausage"
+  ],
+  [
+    "parsley",
+    "mint"
+  ],
+  [
+    "mint",
+    "parsley"
+  ],
+  [
+    "kaffir lime",
+    "leave"
+  ],
+  [
+    "orange",
+    "lime"
+  ],
+  [
+    "lime",
+    "orange"
+  ],
+  [
+    "pork",
+    "veal"
+  ],
+  [
+    "veal",
+    "pork"
+  ],
+  [
+    "balsamic vinegar",
+    "red wine vinegar"
+  ],
+  [
+    "red wine vinegar",
+    "balsamic vinegar"
+  ],
+  [
+    "oregano",
+    "marjoram"
+  ],
+  [
+    "marjoram",
+    "oregano"
+  ],
+  [
+    "stock",
+    "salt"
+  ],
+  [
+    "salt",
+    "stock"
+  ],
+  [
+    "olive oil",
+    "canola"
+  ],
+  [
+    "canola",
+    "olive oil"
+  ],
+  [
+    "splenda",
+    "honey"
+  ],
+  [
+    "honey",
+    "splenda"
+  ],
+  [
+    "thyme",
+    "bay leaf"
+  ],
+  [
+    "bay leaf",
+    "thyme"
+  ],
+  [
+    "sesame oil",
+    "vegetable oil"
+  ],
+  [
+    "vegetable oil",
+    "sesame oil"
+  ],
+  [
+    "wine",
+    "chicken stock"
+  ],
+  [
+    "sea salt",
+    "salt"
+  ],
+  [
+    "blueberry",
+    "cherry"
+  ],
+  [
+    "cherry",
+    "blueberry"
+  ],
+  [
+    "buttermilk",
+    "water"
+  ],
+  [
+    "seasoning salt",
+    "salt"
+  ],
+  [
+    "margarine",
+    "oil"
+  ],
+  [
+    "celery",
+    "zucchini"
+  ],
+  [
+    "zucchini",
+    "celery"
+  ],
+  [
+    "nutmeg",
+    "ground clove"
+  ],
+  [
+    "jalapeno",
+    "cayenne"
+  ],
+  [
+    "cayenne",
+    "jalapeno"
+  ],
+  [
+    "agave nectar",
+    "honey"
+  ],
+  [
+    "honey",
+    "agave nectar"
+  ],
+  [
+    "egg white",
+    "yolk"
+  ],
+  [
+    "yolk",
+    "egg white"
+  ],
+  [
+    "sesame oil",
+    "oil"
+  ],
+  [
+    "cooking spray",
+    "oil"
+  ],
+  [
+    "rib",
+    "celery"
+  ],
+  [
+    "celery",
+    "rib"
+  ],
+  [
+    "cod",
+    "fish"
+  ],
+  [
+    "fish",
+    "cod"
+  ],
+  [
+    "bacon fat",
+    "bacon"
+  ],
+  [
+    "blueberry",
+    "cranberry"
+  ],
+  [
+    "cranberry",
+    "blueberry"
+  ],
+  [
+    "beef",
+    "fat"
+  ],
+  [
+    "syrup",
+    "water"
+  ],
+  [
+    "parsley",
+    "leave"
+  ],
+  [
+    "olive oil",
+    "canola oil"
+  ],
+  [
+    "pork",
+    "shrimp"
+  ],
+  [
+    "wine",
+    "stock"
+  ],
+  [
+    "minced garlic",
+    "garlic salt"
+  ],
+  [
+    "garlic salt",
+    "minced garlic"
+  ],
+  [
+    "dried cherry",
+    "cranberry"
+  ],
+  [
+    "cranberry",
+    "dried cherry"
+  ],
+  [
+    "diced tomato",
+    "fresh tomato"
+  ],
+  [
+    "fresh tomato",
+    "diced tomato"
+  ],
+  [
+    "almond",
+    "cashew"
+  ],
+  [
+    "cashew",
+    "almond"
+  ],
+  [
+    "chipotle pepper",
+    "adobo sauce"
+  ],
+  [
+    "adobo sauce",
+    "chipotle pepper"
+  ],
+  [
+    "curry powder",
+    "spice"
+  ],
+  [
+    "white wine",
+    "sherry"
+  ],
+  [
+    "turkey",
+    "ham"
+  ],
+  [
+    "ham",
+    "turkey"
+  ],
+  [
+    "white bread",
+    "bread"
+  ],
+  [
+    "tomato sauce",
+    "seasoning"
+  ],
+  [
+    "chopped pecan",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "chopped pecan"
+  ],
+  [
+    "chicken breast",
+    "chicken broth"
+  ],
+  [
+    "chicken",
+    "lamb"
+  ],
+  [
+    "lamb",
+    "chicken"
+  ],
+  [
+    "coconut oil",
+    "oil"
+  ],
+  [
+    "pineapple juice",
+    "water"
+  ],
+  [
+    "shrimp",
+    "lobster"
+  ],
+  [
+    "lobster",
+    "shrimp"
+  ],
+  [
+    "kale",
+    "chard"
+  ],
+  [
+    "chard",
+    "kale"
+  ],
+  [
+    "tomato sauce",
+    "spice"
+  ],
+  [
+    "fresh tomato",
+    "tomato"
+  ],
+  [
+    "chocolate chip",
+    "butterscotch chip"
+  ],
+  [
+    "butterscotch chip",
+    "chocolate chip"
+  ],
+  [
+    "strawberry",
+    "cherry"
+  ],
+  [
+    "blueberry",
+    "raisin"
+  ],
+  [
+    "raisin",
+    "blueberry"
+  ],
+  [
+    "splenda",
+    "milk"
+  ],
+  [
+    "pineapple",
+    "mango"
+  ],
+  [
+    "mango",
+    "pineapple"
+  ],
+  [
+    "yellow onion",
+    "green onion"
+  ],
+  [
+    "green onion",
+    "yellow onion"
+  ],
+  [
+    "rum",
+    "vanilla"
+  ],
+  [
+    "chicken breast",
+    "whole chicken"
+  ],
+  [
+    "whole chicken",
+    "chicken breast"
+  ],
+  [
+    "yellow pepper",
+    "orange"
+  ],
+  [
+    "honey",
+    "sweetener"
+  ],
+  [
+    "sweetener",
+    "honey"
+  ],
+  [
+    "ground beef",
+    "ground pork"
+  ],
+  [
+    "ground pork",
+    "ground beef"
+  ],
+  [
+    "heavy cream",
+    "cream"
+  ],
+  [
+    "yam",
+    "sweet potato"
+  ],
+  [
+    "sweet potato",
+    "yam"
+  ],
+  [
+    "garam masala",
+    "spice"
+  ],
+  [
+    "almond",
+    "hazelnut"
+  ],
+  [
+    "hazelnut",
+    "almond"
+  ],
+  [
+    "butternut squash",
+    "pumpkin"
+  ],
+  [
+    "turkey",
+    "cutlet"
+  ],
+  [
+    "cutlet",
+    "turkey"
+  ],
+  [
+    "brown rice",
+    "white rice"
+  ],
+  [
+    "white rice",
+    "brown rice"
+  ],
+  [
+    "chocolate chip",
+    "peanut butter chip"
+  ],
+  [
+    "peanut butter chip",
+    "chocolate chip"
+  ],
+  [
+    "beef broth",
+    "red wine"
+  ],
+  [
+    "red wine",
+    "beef broth"
+  ],
+  [
+    "colby",
+    "cheese"
+  ],
+  [
+    "black bean",
+    "bean"
+  ],
+  [
+    "pork chop",
+    "chicken"
+  ],
+  [
+    "diced tomato",
+    "spice"
+  ],
+  [
+    "white wine",
+    "chicken stock"
+  ],
+  [
+    "chicken stock",
+    "white wine"
+  ],
+  [
+    "green pepper",
+    "jalapeno"
+  ],
+  [
+    "jalapeno",
+    "green pepper"
+  ],
+  [
+    "clam juice",
+    "water"
+  ],
+  [
+    "green chilie",
+    "tomato"
+  ],
+  [
+    "garlic clove",
+    "garlic powder"
+  ],
+  [
+    "garlic powder",
+    "garlic clove"
+  ],
+  [
+    "hot sauce",
+    "sriracha"
+  ],
+  [
+    "honey",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "honey"
+  ],
+  [
+    "dried cherry",
+    "raisin"
+  ],
+  [
+    "raisin",
+    "dried cherry"
+  ],
+  [
+    "wine",
+    "beer"
+  ],
+  [
+    "jalapeno",
+    "habanero"
+  ],
+  [
+    "habanero",
+    "jalapeno"
+  ],
+  [
+    "diced tomato",
+    "green chile"
+  ],
+  [
+    "green chile",
+    "diced tomato"
+  ],
+  [
+    "orange juice",
+    "lemon juice"
+  ],
+  [
+    "lemon juice",
+    "orange juice"
+  ],
+  [
+    "sweet potato",
+    "pumpkin"
+  ],
+  [
+    "whole milk",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "whole milk"
+  ],
+  [
+    "tomato sauce",
+    "salsa"
+  ],
+  [
+    "chopped onion",
+    "onion"
+  ],
+  [
+    "white sugar",
+    "whole wheat flour"
+  ],
+  [
+    "white onion",
+    "green onion"
+  ],
+  [
+    "green onion",
+    "white onion"
+  ],
+  [
+    "turkey",
+    "pork"
+  ],
+  [
+    "pork",
+    "turkey"
+  ],
+  [
+    "jalapeno",
+    "serrano"
+  ],
+  [
+    "serrano",
+    "jalapeno"
+  ],
+  [
+    "clam",
+    "mussel"
+  ],
+  [
+    "mussel",
+    "clam"
+  ],
+  [
+    "splenda",
+    "regular sugar"
+  ],
+  [
+    "regular sugar",
+    "splenda"
+  ],
+  [
+    "white sugar",
+    "nutmeg"
+  ],
+  [
+    "nutmeg",
+    "white sugar"
+  ],
+  [
+    "dried oregano",
+    "basil"
+  ],
+  [
+    "goat cheese",
+    "cheese"
+  ],
+  [
+    "bacon",
+    "prosciutto"
+  ],
+  [
+    "prosciutto",
+    "bacon"
+  ],
+  [
+    "goat",
+    "cheese"
+  ],
+  [
+    "rice milk",
+    "milk"
+  ],
+  [
+    "splenda",
+    "egg white"
+  ],
+  [
+    "egg white",
+    "splenda"
+  ],
+  [
+    "brown sugar",
+    "regular sugar"
+  ],
+  [
+    "wine",
+    "salt"
+  ],
+  [
+    "salt",
+    "wine"
+  ],
+  [
+    "cherry tomato",
+    "tomato"
+  ],
+  [
+    "dried cranberry",
+    "cherry"
+  ],
+  [
+    "chopped walnut",
+    "pecan"
+  ],
+  [
+    "pecan",
+    "chopped walnut"
+  ],
+  [
+    "plain yogurt",
+    "buttermilk"
+  ],
+  [
+    "buttermilk",
+    "plain yogurt"
+  ],
+  [
+    "coconut oil",
+    "olive oil"
+  ],
+  [
+    "olive oil",
+    "coconut oil"
+  ],
+  [
+    "white chocolate chip",
+    "chocolate chip"
+  ],
+  [
+    "maple syrup",
+    "cinnamon"
+  ],
+  [
+    "cinnamon",
+    "maple syrup"
+  ],
+  [
+    "butter",
+    "lard"
+  ],
+  [
+    "lard",
+    "butter"
+  ],
+  [
+    "maple syrup",
+    "corn syrup"
+  ],
+  [
+    "corn syrup",
+    "maple syrup"
+  ],
+  [
+    "brown sugar",
+    "granulated sugar"
+  ],
+  [
+    "granulated sugar",
+    "brown sugar"
+  ],
+  [
+    "jalapeno",
+    "chile"
+  ],
+  [
+    "chile",
+    "jalapeno"
+  ],
+  [
+    "beef broth",
+    "salt"
+  ],
+  [
+    "salt",
+    "beef broth"
+  ],
+  [
+    "mayonnaise",
+    "sour cream"
+  ],
+  [
+    "celery seed",
+    "celery salt"
+  ],
+  [
+    "celery salt",
+    "celery seed"
+  ],
+  [
+    "agave nectar",
+    "sugar"
+  ],
+  [
+    "chicken stock",
+    "milk"
+  ],
+  [
+    "corn flake",
+    "crumb"
+  ],
+  [
+    "chicken broth",
+    "stock"
+  ],
+  [
+    "evaporated milk",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "evaporated milk"
+  ],
+  [
+    "wine",
+    "beef broth"
+  ],
+  [
+    "curry powder",
+    "garam masala"
+  ],
+  [
+    "garam masala",
+    "curry powder"
+  ],
+  [
+    "sultana",
+    "raisin"
+  ],
+  [
+    "raisin",
+    "sultana"
+  ],
+  [
+    "sherry",
+    "wine"
+  ],
+  [
+    "wine",
+    "sherry"
+  ],
+  [
+    "orange juice",
+    "orange zest"
+  ],
+  [
+    "orange zest",
+    "orange juice"
+  ],
+  [
+    "chicken",
+    "tuna"
+  ],
+  [
+    "tuna",
+    "chicken"
+  ],
+  [
+    "ghee",
+    "butter"
+  ],
+  [
+    "butter",
+    "ghee"
+  ],
+  [
+    "tarragon",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "tarragon"
+  ],
+  [
+    "flax seed",
+    "wheat germ"
+  ],
+  [
+    "wheat germ",
+    "flax seed"
+  ],
+  [
+    "canned tomato",
+    "tomato"
+  ],
+  [
+    "chicken stock",
+    "cream"
+  ],
+  [
+    "skim milk",
+    "buttermilk"
+  ],
+  [
+    "buttermilk",
+    "skim milk"
+  ],
+  [
+    "beef broth",
+    "broth"
+  ],
+  [
+    "white sugar",
+    "molasse"
+  ],
+  [
+    "sweet potato",
+    "squash"
+  ],
+  [
+    "maple syrup",
+    "syrup"
+  ],
+  [
+    "pineapple juice",
+    "pineapple"
+  ],
+  [
+    "pork",
+    "bacon"
+  ],
+  [
+    "bacon",
+    "pork"
+  ],
+  [
+    "sour cream",
+    "whipping cream"
+  ],
+  [
+    "whipping cream",
+    "sour cream"
+  ],
+  [
+    "feta",
+    "blue cheese"
+  ],
+  [
+    "blue cheese",
+    "feta"
+  ],
+  [
+    "roasted garlic",
+    "garlic"
+  ],
+  [
+    "honey",
+    "wheat"
+  ],
+  [
+    "coconut oil",
+    "shortening"
+  ],
+  [
+    "shortening",
+    "coconut oil"
+  ],
+  [
+    "orange juice",
+    "milk"
+  ],
+  [
+    "chicken stock",
+    "vegetable stock"
+  ],
+  [
+    "vegetable stock",
+    "chicken stock"
+  ],
+  [
+    "pecan",
+    "hazelnut"
+  ],
+  [
+    "hazelnut",
+    "pecan"
+  ],
+  [
+    "tomato sauce",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "tomato sauce"
+  ],
+  [
+    "red bell pepper",
+    "carrot"
+  ],
+  [
+    "carrot",
+    "red bell pepper"
+  ],
+  [
+    "dried cranberry",
+    "pecan"
+  ],
+  [
+    "turkey bacon",
+    "bacon"
+  ],
+  [
+    "canola",
+    "oil"
+  ],
+  [
+    "skim milk",
+    "milk"
+  ],
+  [
+    "wine",
+    "apple juice"
+  ],
+  [
+    "salmon",
+    "tuna"
+  ],
+  [
+    "tuna",
+    "salmon"
+  ],
+  [
+    "heavy whipping cream",
+    "milk"
+  ],
+  [
+    "sweet onion",
+    "onion"
+  ],
+  [
+    "chipotle",
+    "seasoning"
+  ],
+  [
+    "kidney bean",
+    "bean"
+  ],
+  [
+    "wheat",
+    "splenda"
+  ],
+  [
+    "splenda",
+    "wheat"
+  ],
+  [
+    "orange juice",
+    "lemon"
+  ],
+  [
+    "black bean",
+    "pinto bean"
+  ],
+  [
+    "pinto bean",
+    "black bean"
+  ],
+  [
+    "crushed tomato",
+    "tomato"
+  ],
+  [
+    "cream cheese",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "cream cheese"
+  ],
+  [
+    "mascarpone",
+    "cream cheese"
+  ],
+  [
+    "cream cheese",
+    "mascarpone"
+  ],
+  [
+    "cilantro",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "cilantro"
+  ],
+  [
+    "orange juice",
+    "juice"
+  ],
+  [
+    "crushed tomato",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "crushed tomato"
+  ],
+  [
+    "almond milk",
+    "water"
+  ],
+  [
+    "green bean",
+    "asparagu"
+  ],
+  [
+    "asparagu",
+    "green bean"
+  ],
+  [
+    "soy sauce",
+    "oyster sauce"
+  ],
+  [
+    "oyster sauce",
+    "soy sauce"
+  ],
+  [
+    "green bean",
+    "zucchini"
+  ],
+  [
+    "zucchini",
+    "green bean"
+  ],
+  [
+    "jalapeno",
+    "red pepper"
+  ],
+  [
+    "red pepper",
+    "jalapeno"
+  ],
+  [
+    "fish sauce",
+    "salt"
+  ],
+  [
+    "salt",
+    "fish sauce"
+  ],
+  [
+    "vanilla extract",
+    "vanilla"
+  ],
+  [
+    "unsalted butter",
+    "margarine"
+  ],
+  [
+    "margarine",
+    "unsalted butter"
+  ],
+  [
+    "skim milk",
+    "splenda"
+  ],
+  [
+    "splenda",
+    "skim milk"
+  ],
+  [
+    "soymilk",
+    "milk"
+  ],
+  [
+    "goat cheese",
+    "cream cheese"
+  ],
+  [
+    "cream cheese",
+    "goat cheese"
+  ],
+  [
+    "pecan",
+    "cashew"
+  ],
+  [
+    "almond butter",
+    "peanut butter"
+  ],
+  [
+    "peanut butter",
+    "almond butter"
+  ],
+  [
+    "vanilla extract",
+    "vanilla bean"
+  ],
+  [
+    "vanilla bean",
+    "vanilla extract"
+  ],
+  [
+    "sugar substitute",
+    "sugar"
+  ],
+  [
+    "orange juice",
+    "honey"
+  ],
+  [
+    "honey",
+    "orange juice"
+  ],
+  [
+    "dried cranberry",
+    "currant"
+  ],
+  [
+    "currant",
+    "dried cranberry"
+  ],
+  [
+    "clam juice",
+    "clam"
+  ],
+  [
+    "rum",
+    "brandy"
+  ],
+  [
+    "brandy",
+    "rum"
+  ],
+  [
+    "pumpkin pie spice",
+    "allspice"
+  ],
+  [
+    "splenda",
+    "sweetener"
+  ],
+  [
+    "sweetener",
+    "splenda"
+  ],
+  [
+    "coconut milk",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "coconut milk"
+  ],
+  [
+    "parsley",
+    "spinach"
+  ],
+  [
+    "skim milk",
+    "water"
+  ],
+  [
+    "black bean",
+    "diced tomato"
+  ],
+  [
+    "diced tomato",
+    "black bean"
+  ],
+  [
+    "shortening",
+    "canola oil"
+  ],
+  [
+    "vanilla yogurt",
+    "sour cream"
+  ],
+  [
+    "sour cream",
+    "vanilla yogurt"
+  ],
+  [
+    "lemon zest",
+    "orange"
+  ],
+  [
+    "orange",
+    "lemon zest"
+  ],
+  [
+    "cayenne pepper",
+    "hot sauce"
+  ],
+  [
+    "lemon juice",
+    "orange"
+  ],
+  [
+    "crushed tomato",
+    "diced tomato"
+  ],
+  [
+    "diced tomato",
+    "crushed tomato"
+  ],
+  [
+    "green chile",
+    "tomato"
+  ],
+  [
+    "tomato juice",
+    "water"
+  ],
+  [
+    "hazelnut",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "hazelnut"
+  ],
+  [
+    "skim milk",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "skim milk"
+  ],
+  [
+    "soy sauce",
+    "soy"
+  ],
+  [
+    "light cream",
+    "milk"
+  ],
+  [
+    "fresh mushroom",
+    "mushroom"
+  ],
+  [
+    "evaporated milk",
+    "water"
+  ],
+  [
+    "sodium",
+    "chicken stock"
+  ],
+  [
+    "chicken stock",
+    "sodium"
+  ],
+  [
+    "diced tomato",
+    "stewed tomato"
+  ],
+  [
+    "stewed tomato",
+    "diced tomato"
+  ],
+  [
+    "fresh ginger",
+    "ground ginger"
+  ],
+  [
+    "ground ginger",
+    "fresh ginger"
+  ],
+  [
+    "granulated sugar",
+    "sugar"
+  ],
+  [
+    "fresh parsley",
+    "cilantro"
+  ],
+  [
+    "baby carrot",
+    "carrot"
+  ],
+  [
+    "blue cheese",
+    "cheese"
+  ],
+  [
+    "curry paste",
+    "curry powder"
+  ],
+  [
+    "curry powder",
+    "curry paste"
+  ],
+  [
+    "fresh basil",
+    "dried basil"
+  ],
+  [
+    "dried basil",
+    "fresh basil"
+  ],
+  [
+    "chicken thigh",
+    "chicken breast"
+  ],
+  [
+    "chicken breast",
+    "chicken thigh"
+  ],
+  [
+    "molasse",
+    "corn syrup"
+  ],
+  [
+    "corn syrup",
+    "molasse"
+  ],
+  [
+    "fish sauce",
+    "oyster sauce"
+  ],
+  [
+    "oyster sauce",
+    "fish sauce"
+  ],
+  [
+    "whipped cream",
+    "cool whip"
+  ],
+  [
+    "cool whip",
+    "whipped cream"
+  ],
+  [
+    "splenda",
+    "sugar substitute"
+  ],
+  [
+    "sugar substitute",
+    "splenda"
+  ],
+  [
+    "wine",
+    "vinegar"
+  ],
+  [
+    "vegetable oil",
+    "oil"
+  ],
+  [
+    "sausage",
+    "pork"
+  ],
+  [
+    "pork",
+    "sausage"
+  ],
+  [
+    "fresh basil",
+    "basil"
+  ],
+  [
+    "all purpose flour",
+    "bread flour"
+  ],
+  [
+    "bread flour",
+    "all purpose flour"
+  ],
+  [
+    "black bean",
+    "jalapeno"
+  ],
+  [
+    "jalapeno",
+    "black bean"
+  ],
+  [
+    "apple cider vinegar",
+    "white vinegar"
+  ],
+  [
+    "white vinegar",
+    "apple cider vinegar"
+  ],
+  [
+    "buttermilk",
+    "baking soda"
+  ],
+  [
+    "baking soda",
+    "buttermilk"
+  ],
+  [
+    "splenda",
+    "raisin"
+  ],
+  [
+    "raisin",
+    "splenda"
+  ],
+  [
+    "crab",
+    "lobster"
+  ],
+  [
+    "lobster",
+    "crab"
+  ],
+  [
+    "cod",
+    "halibut"
+  ],
+  [
+    "halibut",
+    "cod"
+  ],
+  [
+    "black bean",
+    "kidney"
+  ],
+  [
+    "cider",
+    "apple juice"
+  ],
+  [
+    "olive oil",
+    "peanut oil"
+  ],
+  [
+    "peanut oil",
+    "olive oil"
+  ],
+  [
+    "splenda",
+    "salt"
+  ],
+  [
+    "salt",
+    "splenda"
+  ],
+  [
+    "almond",
+    "sunflower seed"
+  ],
+  [
+    "sunflower seed",
+    "almond"
+  ],
+  [
+    "melted butter",
+    "olive oil"
+  ],
+  [
+    "stewed tomato",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "stewed tomato"
+  ],
+  [
+    "dried cranberry",
+    "chocolate chip"
+  ],
+  [
+    "chocolate chip",
+    "dried cranberry"
+  ],
+  [
+    "white onion",
+    "onion"
+  ],
+  [
+    "ground chicken",
+    "turkey"
+  ],
+  [
+    "turkey",
+    "ground chicken"
+  ],
+  [
+    "ground beef",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "ground beef"
+  ],
+  [
+    "cream cheese",
+    "cottage cheese"
+  ],
+  [
+    "cottage cheese",
+    "cream cheese"
+  ],
+  [
+    "frozen corn",
+    "corn"
+  ],
+  [
+    "shortening",
+    "olive oil"
+  ],
+  [
+    "almond",
+    "pistachio"
+  ],
+  [
+    "pistachio",
+    "almond"
+  ],
+  [
+    "diced tomato",
+    "chicken broth"
+  ],
+  [
+    "jalapeno",
+    "green chilie"
+  ],
+  [
+    "green chilie",
+    "jalapeno"
+  ],
+  [
+    "heavy cream",
+    "water"
+  ],
+  [
+    "maple syrup",
+    "vanilla"
+  ],
+  [
+    "vanilla",
+    "maple syrup"
+  ],
+  [
+    "canola oil",
+    "vegetable oil"
+  ],
+  [
+    "vegetable oil",
+    "canola oil"
+  ],
+  [
+    "butter",
+    "virgin olive oil"
+  ],
+  [
+    "orange zest",
+    "lemon"
+  ],
+  [
+    "garlic powder",
+    "celery salt"
+  ],
+  [
+    "celery salt",
+    "garlic powder"
+  ],
+  [
+    "dried cranberry",
+    "blueberry"
+  ],
+  [
+    "blueberry",
+    "dried cranberry"
+  ],
+  [
+    "butternut squash",
+    "sweet potato"
+  ],
+  [
+    "sweet potato",
+    "butternut squash"
+  ],
+  [
+    "prosciutto",
+    "ham"
+  ],
+  [
+    "ham",
+    "prosciutto"
+  ],
+  [
+    "maple syrup",
+    "molasse"
+  ],
+  [
+    "molasse",
+    "maple syrup"
+  ],
+  [
+    "white wine",
+    "milk"
+  ],
+  [
+    "cream cheese",
+    "ricotta"
+  ],
+  [
+    "ricotta",
+    "cream cheese"
+  ],
+  [
+    "pineapple",
+    "orange juice"
+  ],
+  [
+    "orange juice",
+    "pineapple"
+  ],
+  [
+    "splenda",
+    "water"
+  ],
+  [
+    "white sugar",
+    "chocolate chip"
+  ],
+  [
+    "chocolate chip",
+    "white sugar"
+  ],
+  [
+    "pastry flour",
+    "white flour"
+  ],
+  [
+    "white flour",
+    "pastry flour"
+  ],
+  [
+    "wine",
+    "milk"
+  ],
+  [
+    "fresh basil",
+    "rosemary"
+  ],
+  [
+    "rosemary",
+    "fresh basil"
+  ],
+  [
+    "walnut",
+    "sunflower seed"
+  ],
+  [
+    "sunflower seed",
+    "walnut"
+  ],
+  [
+    "balsamic vinegar",
+    "red wine"
+  ],
+  [
+    "red wine",
+    "balsamic vinegar"
+  ],
+  [
+    "fresh cilantro",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "fresh cilantro"
+  ],
+  [
+    "green chile",
+    "jalapeno"
+  ],
+  [
+    "jalapeno",
+    "green chile"
+  ],
+  [
+    "vanilla bean",
+    "vanilla"
+  ],
+  [
+    "chocolate chip",
+    "milk chocolate"
+  ],
+  [
+    "milk chocolate",
+    "chocolate chip"
+  ],
+  [
+    "dried cranberry",
+    "almond"
+  ],
+  [
+    "red wine",
+    "white wine"
+  ],
+  [
+    "white wine",
+    "red wine"
+  ],
+  [
+    "chicken broth",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "chicken broth"
+  ],
+  [
+    "ground clove",
+    "allspice"
+  ],
+  [
+    "pesto",
+    "fresh basil"
+  ],
+  [
+    "fresh basil",
+    "pesto"
+  ],
+  [
+    "thyme",
+    "poultry seasoning"
+  ],
+  [
+    "gorgonzola",
+    "blue cheese"
+  ],
+  [
+    "blue cheese",
+    "gorgonzola"
+  ],
+  [
+    "sweet onion",
+    "green onion"
+  ],
+  [
+    "green onion",
+    "sweet onion"
+  ],
+  [
+    "tilapia",
+    "cod"
+  ],
+  [
+    "cod",
+    "tilapia"
+  ],
+  [
+    "shortening",
+    "lard"
+  ],
+  [
+    "lard",
+    "shortening"
+  ],
+  [
+    "light cream",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "light cream"
+  ],
+  [
+    "whipping cream",
+    "cream"
+  ],
+  [
+    "grape tomato",
+    "tomato"
+  ],
+  [
+    "diced tomato",
+    "broth"
+  ],
+  [
+    "lemon zest",
+    "orange zest"
+  ],
+  [
+    "orange zest",
+    "lemon zest"
+  ],
+  [
+    "bacon grease",
+    "olive oil"
+  ],
+  [
+    "chocolate chip",
+    "white chocolate"
+  ],
+  [
+    "white chocolate",
+    "chocolate chip"
+  ],
+  [
+    "tofu",
+    "shrimp"
+  ],
+  [
+    "walnut",
+    "cashew"
+  ],
+  [
+    "cashew",
+    "walnut"
+  ],
+  [
+    "unsalted butter",
+    "shortening"
+  ],
+  [
+    "shortening",
+    "unsalted butter"
+  ],
+  [
+    "cheddar cheese",
+    "velveeta"
+  ],
+  [
+    "rosemary",
+    "tarragon"
+  ],
+  [
+    "tarragon",
+    "rosemary"
+  ],
+  [
+    "fennel",
+    "celery"
+  ],
+  [
+    "celery",
+    "fennel"
+  ],
+  [
+    "chicken bouillon",
+    "salt"
+  ],
+  [
+    "salt",
+    "chicken bouillon"
+  ],
+  [
+    "shortening",
+    "fat"
+  ],
+  [
+    "italian sausage",
+    "ground beef"
+  ],
+  [
+    "ground beef",
+    "italian sausage"
+  ],
+  [
+    "chicken bouillon",
+    "broth"
+  ],
+  [
+    "sherry",
+    "chicken broth"
+  ],
+  [
+    "roasted red pepper",
+    "tomato"
+  ],
+  [
+    "brandy",
+    "cognac"
+  ],
+  [
+    "cognac",
+    "brandy"
+  ],
+  [
+    "tomato sauce",
+    "chicken broth"
+  ],
+  [
+    "splenda",
+    "margarine"
+  ],
+  [
+    "margarine",
+    "splenda"
+  ],
+  [
+    "panko",
+    "bread"
+  ],
+  [
+    "teriyaki sauce",
+    "soy sauce"
+  ],
+  [
+    "soy sauce",
+    "teriyaki sauce"
+  ],
+  [
+    "splenda",
+    "nutmeg"
+  ],
+  [
+    "nutmeg",
+    "splenda"
+  ],
+  [
+    "bacon grease",
+    "oil"
+  ],
+  [
+    "tomato sauce",
+    "tomato soup"
+  ],
+  [
+    "tomato soup",
+    "tomato sauce"
+  ],
+  [
+    "minced onion",
+    "onion"
+  ],
+  [
+    "yellow onion",
+    "onion"
+  ],
+  [
+    "buttermilk",
+    "whole milk"
+  ],
+  [
+    "whole milk",
+    "buttermilk"
+  ],
+  [
+    "dark brown sugar",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "dark brown sugar"
+  ],
+  [
+    "cream cheese",
+    "splenda"
+  ],
+  [
+    "splenda",
+    "cream cheese"
+  ],
+  [
+    "milk chocolate",
+    "chip"
+  ],
+  [
+    "soy milk",
+    "buttermilk"
+  ],
+  [
+    "buttermilk",
+    "soy milk"
+  ],
+  [
+    "apple cider",
+    "apple juice"
+  ],
+  [
+    "apple juice",
+    "apple cider"
+  ],
+  [
+    "fresh basil",
+    "cilantro"
+  ],
+  [
+    "cilantro",
+    "fresh basil"
+  ],
+  [
+    "apple cider",
+    "water"
+  ],
+  [
+    "rice vinegar",
+    "white vinegar"
+  ],
+  [
+    "white vinegar",
+    "rice vinegar"
+  ],
+  [
+    "chilie",
+    "jalapeno"
+  ],
+  [
+    "jalapeno",
+    "chilie"
+  ],
+  [
+    "jalapeno",
+    "bell pepper"
+  ],
+  [
+    "bell pepper",
+    "jalapeno"
+  ],
+  [
+    "buttermilk",
+    "sour milk"
+  ],
+  [
+    "sour milk",
+    "buttermilk"
+  ],
+  [
+    "cream",
+    "buttermilk"
+  ],
+  [
+    "buttermilk",
+    "cream"
+  ],
+  [
+    "stewed tomato",
+    "tomato"
+  ],
+  [
+    "sodium",
+    "vegetable broth"
+  ],
+  [
+    "vegetable broth",
+    "sodium"
+  ],
+  [
+    "skim milk",
+    "whole milk"
+  ],
+  [
+    "whole milk",
+    "skim milk"
+  ],
+  [
+    "cinnamon stick",
+    "ground cinnamon"
+  ],
+  [
+    "ground cinnamon",
+    "cinnamon stick"
+  ],
+  [
+    "hominy",
+    "corn"
+  ],
+  [
+    "green olive",
+    "olive"
+  ],
+  [
+    "vegetable broth",
+    "salt"
+  ],
+  [
+    "salt",
+    "vegetable broth"
+  ],
+  [
+    "dark chocolate",
+    "milk chocolate"
+  ],
+  [
+    "milk chocolate",
+    "dark chocolate"
+  ],
+  [
+    "walnut",
+    "pistachio"
+  ],
+  [
+    "pistachio",
+    "walnut"
+  ],
+  [
+    "orange extract",
+    "orange"
+  ],
+  [
+    "soy",
+    "fish sauce"
+  ],
+  [
+    "fish sauce",
+    "soy"
+  ],
+  [
+    "italian seasoning",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "italian seasoning"
+  ],
+  [
+    "rotel tomato",
+    "green chilie"
+  ],
+  [
+    "green chilie",
+    "rotel tomato"
+  ],
+  [
+    "sour cream",
+    "ricotta"
+  ],
+  [
+    "ricotta",
+    "sour cream"
+  ],
+  [
+    "cake flour",
+    "all purpose flour"
+  ],
+  [
+    "all purpose flour",
+    "cake flour"
+  ],
+  [
+    "wheat bran",
+    "oat bran"
+  ],
+  [
+    "oat bran",
+    "wheat bran"
+  ],
+  [
+    "onion powder",
+    "chopped onion"
+  ],
+  [
+    "chopped onion",
+    "onion powder"
+  ],
+  [
+    "vermouth",
+    "white wine"
+  ],
+  [
+    "white wine",
+    "vermouth"
+  ],
+  [
+    "escarole",
+    "spinach"
+  ],
+  [
+    "tomato soup",
+    "water"
+  ],
+  [
+    "coconut milk",
+    "chicken broth"
+  ],
+  [
+    "chicken broth",
+    "coconut milk"
+  ],
+  [
+    "coconut milk",
+    "broth"
+  ],
+  [
+    "cooking spray",
+    "fat"
+  ],
+  [
+    "fresh tomato",
+    "canned tomato"
+  ],
+  [
+    "canned tomato",
+    "fresh tomato"
+  ],
+  [
+    "buttermilk",
+    "almond milk"
+  ],
+  [
+    "rum",
+    "water"
+  ],
+  [
+    "peanut oil",
+    "vegetable oil"
+  ],
+  [
+    "vegetable oil",
+    "peanut oil"
+  ],
+  [
+    "green onion",
+    "onion powder"
+  ],
+  [
+    "onion powder",
+    "green onion"
+  ],
+  [
+    "yoghurt",
+    "cream"
+  ],
+  [
+    "tomato sauce",
+    "juice"
+  ],
+  [
+    "splenda",
+    "cake"
+  ],
+  [
+    "sesame oil",
+    "peanut oil"
+  ],
+  [
+    "peanut oil",
+    "sesame oil"
+  ],
+  [
+    "fresh tomato",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "fresh tomato"
+  ],
+  [
+    "plain yogurt",
+    "yogurt"
+  ],
+  [
+    "chicken stock",
+    "beef stock"
+  ],
+  [
+    "beef stock",
+    "chicken stock"
+  ],
+  [
+    "white flour",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "white flour"
+  ],
+  [
+    "light brown sugar",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "light brown sugar"
+  ],
+  [
+    "turkey bacon",
+    "pork"
+  ],
+  [
+    "pork",
+    "turkey bacon"
+  ],
+  [
+    "wheat flour",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "wheat flour"
+  ],
+  [
+    "coconut milk",
+    "coconut cream"
+  ],
+  [
+    "coconut cream",
+    "coconut milk"
+  ],
+  [
+    "pinto bean",
+    "kidney bean"
+  ],
+  [
+    "kidney bean",
+    "pinto bean"
+  ],
+  [
+    "red wine",
+    "sherry"
+  ],
+  [
+    "sherry",
+    "red wine"
+  ],
+  [
+    "pasta sauce",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "pasta sauce"
+  ],
+  [
+    "white sugar",
+    "pecan"
+  ],
+  [
+    "apple cider vinegar",
+    "red wine vinegar"
+  ],
+  [
+    "red wine vinegar",
+    "apple cider vinegar"
+  ],
+  [
+    "clam juice",
+    "chicken broth"
+  ],
+  [
+    "chicken broth",
+    "clam juice"
+  ],
+  [
+    "splenda",
+    "syrup"
+  ],
+  [
+    "syrup",
+    "splenda"
+  ],
+  [
+    "yogurt",
+    "mayonnaise"
+  ],
+  [
+    "mayonnaise",
+    "yogurt"
+  ],
+  [
+    "dried cranberry",
+    "dried cherry"
+  ],
+  [
+    "dried cherry",
+    "dried cranberry"
+  ],
+  [
+    "white sugar",
+    "raisin"
+  ],
+  [
+    "raisin",
+    "white sugar"
+  ],
+  [
+    "pancetta",
+    "prosciutto"
+  ],
+  [
+    "prosciutto",
+    "pancetta"
+  ],
+  [
+    "orange juice",
+    "pineapple juice"
+  ],
+  [
+    "pineapple juice",
+    "orange juice"
+  ],
+  [
+    "vegetable oil",
+    "shortening"
+  ],
+  [
+    "shortening",
+    "vegetable oil"
+  ],
+  [
+    "canola oil",
+    "fat"
+  ],
+  [
+    "coriander",
+    "parsley"
+  ],
+  [
+    "parsley",
+    "coriander"
+  ],
+  [
+    "white sugar",
+    "wheat"
+  ],
+  [
+    "sherry",
+    "cooking wine"
+  ],
+  [
+    "cooking wine",
+    "sherry"
+  ],
+  [
+    "arugula",
+    "watercres"
+  ],
+  [
+    "watercres",
+    "arugula"
+  ],
+  [
+    "evaporated milk",
+    "whole milk"
+  ],
+  [
+    "whole milk",
+    "evaporated milk"
+  ],
+  [
+    "vegetable broth",
+    "broth"
+  ],
+  [
+    "stewed tomato",
+    "water"
+  ],
+  [
+    "craisin",
+    "dried cranberry"
+  ],
+  [
+    "dried cranberry",
+    "craisin"
+  ],
+  [
+    "toasted pecan",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "toasted pecan"
+  ],
+  [
+    "splenda",
+    "chocolate chip"
+  ],
+  [
+    "chocolate chip",
+    "splenda"
+  ],
+  [
+    "yellow mustard",
+    "dijon"
+  ],
+  [
+    "dijon",
+    "yellow mustard"
+  ],
+  [
+    "tilapia",
+    "halibut"
+  ],
+  [
+    "halibut",
+    "tilapia"
+  ],
+  [
+    "stevia",
+    "splenda"
+  ],
+  [
+    "splenda",
+    "stevia"
+  ],
+  [
+    "cool whip",
+    "whipping cream"
+  ],
+  [
+    "whipping cream",
+    "cool whip"
+  ],
+  [
+    "coconut oil",
+    "canola"
+  ],
+  [
+    "canola",
+    "coconut oil"
+  ],
+  [
+    "canned tomato",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "canned tomato"
+  ],
+  [
+    "oat bran",
+    "wheat germ"
+  ],
+  [
+    "wheat germ",
+    "oat bran"
+  ],
+  [
+    "chopped tomato",
+    "tomato"
+  ],
+  [
+    "wine",
+    "balsamic vinegar"
+  ],
+  [
+    "whole milk",
+    "water"
+  ],
+  [
+    "cointreau",
+    "triple sec"
+  ],
+  [
+    "triple sec",
+    "cointreau"
+  ],
+  [
+    "soy milk",
+    "water"
+  ],
+  [
+    "raisin",
+    "prune"
+  ],
+  [
+    "prune",
+    "raisin"
+  ],
+  [
+    "heavy cream",
+    "broth"
+  ],
+  [
+    "crushed tomato",
+    "water"
+  ],
+  [
+    "chicken breast",
+    "pork"
+  ],
+  [
+    "pork",
+    "chicken breast"
+  ],
+  [
+    "wine",
+    "grape juice"
+  ],
+  [
+    "sucanat",
+    "wheat"
+  ],
+  [
+    "ghee",
+    "oil"
+  ],
+  [
+    "whole wheat flour",
+    "pastry flour"
+  ],
+  [
+    "pastry flour",
+    "whole wheat flour"
+  ],
+  [
+    "cream of tartar",
+    "baking powder"
+  ],
+  [
+    "baking powder",
+    "cream of tartar"
+  ],
+  [
+    "nutella",
+    "peanut butter"
+  ],
+  [
+    "peanut butter",
+    "nutella"
+  ],
+  [
+    "coconut cream",
+    "milk"
+  ],
+  [
+    "sour cream",
+    "splenda"
+  ],
+  [
+    "splenda",
+    "sour cream"
+  ],
+  [
+    "onion powder",
+    "onion salt"
+  ],
+  [
+    "rum",
+    "bourbon"
+  ],
+  [
+    "bourbon",
+    "rum"
+  ],
+  [
+    "sucanat",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "sucanat"
+  ],
+  [
+    "red wine vinegar",
+    "red wine"
+  ],
+  [
+    "vegetable broth",
+    "beef broth"
+  ],
+  [
+    "beef broth",
+    "vegetable broth"
+  ],
+  [
+    "wheat germ",
+    "oat"
+  ],
+  [
+    "corn flake",
+    "bread crumb"
+  ],
+  [
+    "bread crumb",
+    "corn flake"
+  ],
+  [
+    "sunflower seed",
+    "sesame seed"
+  ],
+  [
+    "sesame seed",
+    "sunflower seed"
+  ],
+  [
+    "pastry flour",
+    "sucanat"
+  ],
+  [
+    "sucanat",
+    "pastry flour"
+  ],
+  [
+    "vidalia onion",
+    "green onion"
+  ],
+  [
+    "green onion",
+    "vidalia onion"
+  ],
+  [
+    "baby spinach",
+    "arugula"
+  ],
+  [
+    "arugula",
+    "baby spinach"
+  ],
+  [
+    "white vinegar",
+    "cider vinegar"
+  ],
+  [
+    "cider vinegar",
+    "white vinegar"
+  ],
+  [
+    "oat bran",
+    "whole wheat flour"
+  ],
+  [
+    "tomato juice",
+    "juice"
+  ],
+  [
+    "oregano",
+    "tarragon"
+  ],
+  [
+    "tarragon",
+    "oregano"
+  ],
+  [
+    "margarine",
+    "canola oil"
+  ],
+  [
+    "garlic salt",
+    "celery salt"
+  ],
+  [
+    "celery salt",
+    "garlic salt"
+  ],
+  [
+    "kosher salt",
+    "table salt"
+  ],
+  [
+    "table salt",
+    "kosher salt"
+  ],
+  [
+    "chopped garlic",
+    "garlic powder"
+  ],
+  [
+    "garlic powder",
+    "chopped garlic"
+  ],
+  [
+    "sliced almond",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "sliced almond"
+  ],
+  [
+    "vermouth",
+    "wine"
+  ],
+  [
+    "wine",
+    "vermouth"
+  ],
+  [
+    "enchilada sauce",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "enchilada sauce"
+  ],
+  [
+    "apple cider",
+    "juice"
+  ],
+  [
+    "virgin olive oil",
+    "vegetable oil"
+  ],
+  [
+    "vegetable oil",
+    "virgin olive oil"
+  ],
+  [
+    "chicken stock",
+    "chicken broth"
+  ],
+  [
+    "chicken broth",
+    "chicken stock"
+  ],
+  [
+    "ritz cracker",
+    "bread crumb"
+  ],
+  [
+    "bread crumb",
+    "ritz cracker"
+  ],
+  [
+    "clementine",
+    "orange"
+  ],
+  [
+    "orange",
+    "clementine"
+  ],
+  [
+    "brandy",
+    "vanilla"
+  ],
+  [
+    "cheddar cheese",
+    "swis"
+  ],
+  [
+    "melted butter",
+    "vegetable oil"
+  ],
+  [
+    "oat bran",
+    "oat"
+  ],
+  [
+    "splenda",
+    "unsweetened applesauce"
+  ],
+  [
+    "unsweetened applesauce",
+    "splenda"
+  ],
+  [
+    "honey mustard",
+    "dijon"
+  ],
+  [
+    "dijon",
+    "honey mustard"
+  ],
+  [
+    "peanut butter chip",
+    "chocolate"
+  ],
+  [
+    "serrano pepper",
+    "jalapeno"
+  ],
+  [
+    "jalapeno",
+    "serrano pepper"
+  ],
+  [
+    "splenda",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "splenda"
+  ],
+  [
+    "onion powder",
+    "minced onion"
+  ],
+  [
+    "minced onion",
+    "onion powder"
+  ],
+  [
+    "cool whip",
+    "cream"
+  ],
+  [
+    "cream",
+    "cool whip"
+  ],
+  [
+    "bacon piece",
+    "bacon"
+  ],
+  [
+    "chilli",
+    "jalapeno"
+  ],
+  [
+    "jalapeno",
+    "chilli"
+  ],
+  [
+    "red potato",
+    "russet"
+  ],
+  [
+    "russet",
+    "red potato"
+  ],
+  [
+    "chicken broth",
+    "black bean"
+  ],
+  [
+    "black bean",
+    "chicken broth"
+  ],
+  [
+    "corn syrup",
+    "syrup"
+  ],
+  [
+    "splenda",
+    "pecan"
+  ],
+  [
+    "pecan",
+    "splenda"
+  ],
+  [
+    "white wine",
+    "apple juice"
+  ],
+  [
+    "cottage cheese",
+    "yogurt"
+  ],
+  [
+    "yogurt",
+    "cottage cheese"
+  ],
+  [
+    "dried cranberry",
+    "apricot"
+  ],
+  [
+    "sliced almond",
+    "pecan"
+  ],
+  [
+    "pecan",
+    "sliced almond"
+  ],
+  [
+    "vegetable stock",
+    "chicken broth"
+  ],
+  [
+    "chicken broth",
+    "vegetable stock"
+  ],
+  [
+    "slivered almond",
+    "pecan"
+  ],
+  [
+    "pecan",
+    "slivered almond"
+  ],
+  [
+    "almond milk",
+    "coconut oil"
+  ],
+  [
+    "coconut oil",
+    "almond milk"
+  ],
+  [
+    "yogurt",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "yogurt"
+  ],
+  [
+    "splenda",
+    "granulated sugar"
+  ],
+  [
+    "granulated sugar",
+    "splenda"
+  ],
+  [
+    "slivered almond",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "slivered almond"
+  ],
+  [
+    "dried cranberry",
+    "date"
+  ],
+  [
+    "ritz cracker",
+    "saltine"
+  ],
+  [
+    "saltine",
+    "ritz cracker"
+  ],
+  [
+    "balsamic vinegar",
+    "white wine vinegar"
+  ],
+  [
+    "white wine vinegar",
+    "balsamic vinegar"
+  ],
+  [
+    "coconut oil",
+    "canola oil"
+  ],
+  [
+    "canola oil",
+    "coconut oil"
+  ],
+  [
+    "currant",
+    "cranberry"
+  ],
+  [
+    "wheat bran",
+    "wheat germ"
+  ],
+  [
+    "wheat germ",
+    "wheat bran"
+  ],
+  [
+    "soy milk",
+    "cream"
+  ],
+  [
+    "cream",
+    "soy milk"
+  ],
+  [
+    "feta cheese",
+    "goat cheese"
+  ],
+  [
+    "goat cheese",
+    "feta cheese"
+  ],
+  [
+    "feta cheese",
+    "blue cheese"
+  ],
+  [
+    "blue cheese",
+    "feta cheese"
+  ],
+  [
+    "ground pork",
+    "sausage"
+  ],
+  [
+    "buttermilk",
+    "raisin"
+  ],
+  [
+    "bourbon",
+    "brandy"
+  ],
+  [
+    "brandy",
+    "bourbon"
+  ],
+  [
+    "olive oil",
+    "bacon fat"
+  ],
+  [
+    "bacon fat",
+    "olive oil"
+  ],
+  [
+    "buttermilk",
+    "heavy cream"
+  ],
+  [
+    "heavy cream",
+    "buttermilk"
+  ],
+  [
+    "chili bean",
+    "kidney bean"
+  ],
+  [
+    "kidney bean",
+    "chili bean"
+  ],
+  [
+    "white sugar",
+    "margarine"
+  ],
+  [
+    "margarine",
+    "nutmeg"
+  ],
+  [
+    "nutmeg",
+    "margarine"
+  ],
+  [
+    "penne",
+    "spaghetti"
+  ],
+  [
+    "spaghetti",
+    "penne"
+  ],
+  [
+    "eggnog",
+    "milk"
+  ],
+  [
+    "onion powder",
+    "fresh onion"
+  ],
+  [
+    "fresh onion",
+    "onion powder"
+  ],
+  [
+    "lime zest",
+    "lemon"
+  ],
+  [
+    "raw sugar",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "raw sugar"
+  ],
+  [
+    "ground turkey",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "ground turkey"
+  ],
+  [
+    "kosher salt",
+    "sea salt"
+  ],
+  [
+    "sea salt",
+    "kosher salt"
+  ],
+  [
+    "vegetable broth",
+    "cream"
+  ],
+  [
+    "brewed coffee",
+    "water"
+  ],
+  [
+    "egg beater",
+    "egg white"
+  ],
+  [
+    "egg white",
+    "egg beater"
+  ],
+  [
+    "whole milk",
+    "whipping cream"
+  ],
+  [
+    "whipping cream",
+    "whole milk"
+  ],
+  [
+    "chocolate chip",
+    "chocolate bar"
+  ],
+  [
+    "chocolate bar",
+    "chocolate chip"
+  ],
+  [
+    "goat cheese",
+    "blue cheese"
+  ],
+  [
+    "blue cheese",
+    "goat cheese"
+  ],
+  [
+    "vegetable oil",
+    "fat"
+  ],
+  [
+    "coconut milk",
+    "evaporated milk"
+  ],
+  [
+    "evaporated milk",
+    "coconut milk"
+  ],
+  [
+    "splenda",
+    "buttermilk"
+  ],
+  [
+    "buttermilk",
+    "splenda"
+  ],
+  [
+    "chopped almond",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "chopped almond"
+  ],
+  [
+    "rice vinegar",
+    "white wine vinegar"
+  ],
+  [
+    "white wine vinegar",
+    "rice vinegar"
+  ],
+  [
+    "triple sec",
+    "grand marnier"
+  ],
+  [
+    "grand marnier",
+    "triple sec"
+  ],
+  [
+    "white flour",
+    "splenda"
+  ],
+  [
+    "splenda",
+    "white flour"
+  ],
+  [
+    "tomato sauce",
+    "tomato juice"
+  ],
+  [
+    "tomato juice",
+    "tomato sauce"
+  ],
+  [
+    "stevia",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "stevia"
+  ],
+  [
+    "coconut oil",
+    "margarine"
+  ],
+  [
+    "margarine",
+    "coconut oil"
+  ],
+  [
+    "black bean",
+    "refried bean"
+  ],
+  [
+    "refried bean",
+    "black bean"
+  ],
+  [
+    "rice vinegar",
+    "rice wine"
+  ],
+  [
+    "rice wine",
+    "rice vinegar"
+  ],
+  [
+    "red pepper",
+    "pimento"
+  ],
+  [
+    "pimento",
+    "red pepper"
+  ],
+  [
+    "diced tomato",
+    "tomato juice"
+  ],
+  [
+    "tomato juice",
+    "diced tomato"
+  ],
+  [
+    "pastry flour",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "pastry flour"
+  ],
+  [
+    "sherry",
+    "rice wine"
+  ],
+  [
+    "rice wine",
+    "sherry"
+  ],
+  [
+    "red wine vinegar",
+    "cider vinegar"
+  ],
+  [
+    "cider vinegar",
+    "red wine vinegar"
+  ],
+  [
+    "black bean",
+    "water"
+  ],
+  [
+    "balsamic vinegar",
+    "cider vinegar"
+  ],
+  [
+    "cider vinegar",
+    "balsamic vinegar"
+  ],
+  [
+    "butter",
+    "oleo"
+  ],
+  [
+    "oleo",
+    "butter"
+  ],
+  [
+    "macadamia nut",
+    "walnut"
+  ],
+  [
+    "walnut",
+    "macadamia nut"
+  ],
+  [
+    "walnut oil",
+    "olive oil"
+  ],
+  [
+    "olive oil",
+    "walnut oil"
+  ],
+  [
+    "wheat germ",
+    "meal"
+  ],
+  [
+    "condensed milk",
+    "cream"
+  ],
+  [
+    "turkey sausage",
+    "pork"
+  ],
+  [
+    "pork",
+    "turkey sausage"
+  ],
+  [
+    "bacon",
+    "salt pork"
+  ],
+  [
+    "salt pork",
+    "bacon"
+  ],
+  [
+    "vegetable broth",
+    "chicken stock"
+  ],
+  [
+    "chicken stock",
+    "vegetable broth"
+  ],
+  [
+    "frozen corn",
+    "canned corn"
+  ],
+  [
+    "canned corn",
+    "frozen corn"
+  ],
+  [
+    "watercres",
+    "spinach"
+  ],
+  [
+    "golden syrup",
+    "honey"
+  ],
+  [
+    "honey",
+    "golden syrup"
+  ],
+  [
+    "rotel tomato",
+    "diced tomato"
+  ],
+  [
+    "diced tomato",
+    "rotel tomato"
+  ],
+  [
+    "dill weed",
+    "dill seed"
+  ],
+  [
+    "dill seed",
+    "dill weed"
+  ],
+  [
+    "balsamic vinegar",
+    "white vinegar"
+  ],
+  [
+    "white vinegar",
+    "balsamic vinegar"
+  ],
+  [
+    "turkey breast",
+    "chicken"
+  ],
+  [
+    "dry white wine",
+    "water"
+  ],
+  [
+    "evaporated milk",
+    "whipping cream"
+  ],
+  [
+    "whipping cream",
+    "evaporated milk"
+  ],
+  [
+    "orange juice",
+    "apple juice"
+  ],
+  [
+    "apple juice",
+    "orange juice"
+  ],
+  [
+    "vegetable broth",
+    "milk"
+  ],
+  [
+    "coconut sugar",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "coconut sugar"
+  ],
+  [
+    "yogurt",
+    "light sour cream"
+  ],
+  [
+    "olive oil",
+    "corn oil"
+  ],
+  [
+    "corn oil",
+    "olive oil"
+  ],
+  [
+    "white wine",
+    "sake"
+  ],
+  [
+    "cheddar cheese",
+    "monterey jack"
+  ],
+  [
+    "monterey jack",
+    "cheddar cheese"
+  ],
+  [
+    "buttermilk",
+    "kefir"
+  ],
+  [
+    "splenda",
+    "egg substitute"
+  ],
+  [
+    "egg substitute",
+    "splenda"
+  ],
+  [
+    "grapeseed oil",
+    "olive oil"
+  ],
+  [
+    "olive oil",
+    "grapeseed oil"
+  ],
+  [
+    "pizza sauce",
+    "spaghetti"
+  ],
+  [
+    "coconut sugar",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "coconut sugar"
+  ],
+  [
+    "chicken broth",
+    "evaporated milk"
+  ],
+  [
+    "evaporated milk",
+    "chicken broth"
+  ],
+  [
+    "cream",
+    "almond milk"
+  ],
+  [
+    "pizza sauce",
+    "tomato sauce"
+  ],
+  [
+    "tomato sauce",
+    "pizza sauce"
+  ],
+  [
+    "unsalted butter",
+    "oil"
+  ],
+  [
+    "rice milk",
+    "water"
+  ],
+  [
+    "chicken thigh",
+    "whole chicken"
+  ],
+  [
+    "whole chicken",
+    "chicken thigh"
+  ],
+  [
+    "plain yogurt",
+    "cream"
+  ],
+  [
+    "golden syrup",
+    "corn syrup"
+  ],
+  [
+    "corn syrup",
+    "golden syrup"
+  ],
+  [
+    "stevia",
+    "white sugar"
+  ],
+  [
+    "white sugar",
+    "stevia"
+  ],
+  [
+    "vegetable oil",
+    "margarine"
+  ],
+  [
+    "margarine",
+    "vegetable oil"
+  ],
+  [
+    "coconut milk",
+    "buttermilk"
+  ],
+  [
+    "buttermilk",
+    "coconut milk"
+  ],
+  [
+    "olive oil",
+    "lard"
+  ],
+  [
+    "lard",
+    "olive oil"
+  ],
+  [
+    "egg white",
+    "egg substitute"
+  ],
+  [
+    "egg substitute",
+    "egg white"
+  ],
+  [
+    "brown sugar",
+    "sugar substitute"
+  ],
+  [
+    "sugar substitute",
+    "brown sugar"
+  ],
+  [
+    "mini chocolate chip",
+    "raisin"
+  ],
+  [
+    "raisin",
+    "mini chocolate chip"
+  ],
+  [
+    "soy sauce",
+    "coconut amino"
+  ],
+  [
+    "palm sugar",
+    "brown sugar"
+  ],
+  [
+    "brown sugar",
+    "palm sugar"
+  ],
+  [
+    "red wine vinegar",
+    "sherry"
+  ],
+  [
+    "sherry",
+    "red wine vinegar"
+  ],
+  [
+    "lean ground turkey",
+    "beef"
+  ],
+  [
+    "beef",
+    "lean ground turkey"
+  ],
+  [
+    "fresh cilantro",
+    "oregano"
+  ],
+  [
+    "oregano",
+    "fresh cilantro"
+  ],
+  [
+    "roasted red pepper",
+    "pimento"
+  ],
+  [
+    "pimento",
+    "roasted red pepper"
+  ],
+  [
+    "rice milk",
+    "buttermilk"
+  ],
+  [
+    "buttermilk",
+    "rice milk"
+  ],
+  [
+    "egg substitute",
+    "milk"
+  ]
+]
